@@ -18,7 +18,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 283,"Move Zeroes",Easy,C++,https://leetcode.com/problems/move-zeroes/,2026-08-16 03:40:01
 303,"Range Sum Query - Immutable",Easy,C++,https://leetcode.com/problems/range-sum-query-immutable/,2026-08-16 03:39:30
 485,"Max Consecutive Ones",Easy,C++,https://leetcode.com/problems/max-consecutive-ones/,2026-08-16 03:41:45
-704,"Binary Search",Easy,C++,https://leetcode.com/problems/binary-search/,2026-08-16 03:36:02
+704,"Binary Search",Easy,C++,https://leetcode.com/problems/binary-search/,2026-08-16 12:28:57
 977,"Squares of a Sorted Array",Easy,C++,https://leetcode.com/problems/squares-of-a-sorted-array/,2026-08-16 03:40:45
 1752,"Check if Array Is Sorted and Rotated",Easy,C++,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,2026-08-16 03:39:45
 2149,"Rearrange Array Elements by Sign",Medium,C++,https://leetcode.com/problems/rearrange-array-elements-by-sign/,2026-08-16 03:36:30
