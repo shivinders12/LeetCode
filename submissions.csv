@@ -3,10 +3,21 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 26,"Remove Duplicates from Sorted Array",Easy,C++,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,2026-08-16 03:38:44
 31,"Next Permutation",Medium,C++,https://leetcode.com/problems/next-permutation/,2026-08-16 03:33:48
 35,"Search Insert Position",Easy,C++,https://leetcode.com/problems/search-insert-position/,2026-08-16 03:30:12
+42,"Trapping Rain Water",Hard,C++,https://leetcode.com/problems/trapping-rain-water/,2026-08-16 03:32:00
+53,"Maximum Subarray",Medium,C++,https://leetcode.com/problems/maximum-subarray/,2026-08-16 03:42:00
 75,"Sort Colors",Medium,C++,https://leetcode.com/problems/sort-colors/,2026-08-16 03:41:08
+88,"Merge Sorted Array",Easy,C++,https://leetcode.com/problems/merge-sorted-array/,2026-08-16 03:41:30
+121,"Best Time to Buy and Sell Stock",Easy,C++,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,2026-08-16 03:43:00
 136,"Single Number",Easy,C++,https://leetcode.com/problems/single-number/,2026-08-16 03:31:27
 162,"Find Peak Element",Medium,C++,https://leetcode.com/problems/find-peak-element/,2026-08-16 04:13:46
+169,"Majority Element",Easy,C++,https://leetcode.com/problems/majority-element/,2026-08-16 03:40:30
+189,"Rotate Array",Medium,C++,https://leetcode.com/problems/rotate-array/,2026-08-16 03:39:00
 238,"Product of Array Except Self",Medium,C++,https://leetcode.com/problems/product-of-array-except-self/,2026-08-16 03:37:43
 268,"Missing Number",Easy,C++,https://leetcode.com/problems/missing-number/,2026-08-16 03:32:31
 283,"Move Zeroes",Easy,C++,https://leetcode.com/problems/move-zeroes/,2026-08-16 03:40:01
+303,"Range Sum Query - Immutable",Easy,C++,https://leetcode.com/problems/range-sum-query-immutable/,2026-08-16 03:39:30
+485,"Max Consecutive Ones",Easy,C++,https://leetcode.com/problems/max-consecutive-ones/,2026-08-16 03:41:45
 704,"Binary Search",Easy,C++,https://leetcode.com/problems/binary-search/,2026-08-16 03:36:02
+977,"Squares of a Sorted Array",Easy,C++,https://leetcode.com/problems/squares-of-a-sorted-array/,2026-08-16 03:40:45
+1752,"Check if Array Is Sorted and Rotated",Easy,C++,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,2026-08-16 03:39:45
+2149,"Rearrange Array Elements by Sign",Medium,C++,https://leetcode.com/problems/rearrange-array-elements-by-sign/,2026-08-16 03:36:30
