@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-22-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-23-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **14** | 63.6% | `█████████████░░░░░░░` |
-| 🟡 **Medium** | **7** | 31.8% | `███████░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 4.5% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **22** | 100% | `████████████████████` |
+| 🟢 **Easy** | **15** | 65.2% | `█████████████░░░░░░░` |
+| 🟡 **Medium** | **7** | 30.4% | `██████░░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 4.3% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **23** | 100% | `████████████████████` |
 
 </div>
 
@@ -44,6 +44,7 @@
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | C++ | Boyer-Moore Voting | [`0169-majority-element`](./0169-majority-element/) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | C++ | Two Pointers | [`0189-rotate-array`](./0189-rotate-array/) |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | C++ | Prefix Sum | [`0238-product-of-array-except-self`](./0238-product-of-array-except-self/) |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | C++ | Arrays & Hashing | [`0242-valid-anagram`](./0242-valid-anagram/) |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | C++ | Bit Manipulation | [`0268-missing-number`](./0268-missing-number/) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | C++ | Two Pointers | [`0283-move-zeroes`](./0283-move-zeroes/) |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | C++ | Prefix Sum | [`0303-range-sum-query-immutable`](./0303-range-sum-query-immutable/) |
