@@ -46,7 +46,7 @@
 
 ## 📄 Master CSV Tracking Log
 
-All submission records are updated in real-time in the master tracking sheet: [`submissions.csv`](./submissions.csv).
+All distinct submission records are updated in real-time in the master tracking sheet: [`submissions.csv`](./submissions.csv).
 
 ---
 
