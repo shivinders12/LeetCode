@@ -1,15 +1,15 @@
-        }
-        for(int i=0;i<t.length();i++)
-        {
-            asc2[i]=t[i];
-        }
-        sort(asc1.begin(), asc1.end());
-        bool ans=true;
-
         for(int i=0;i<s.length();i++)
+        }
+        vector<int> asc1(s.length());
+        vector<int> asc2(t.length());
         {
-            if(asc1[i]!=asc2[i])
-            {
-                ans=false;
-            }
-        sort(asc2.begin(), asc2.end());
+            return false;
+        // if(asc1==asc2) return true;
+        // else return false;
+        if(s.length()!=t.length())
+        // {
+        //     asc2= asc2 + t[i];
+        // }
+        //     asc1= asc1 + s[i];
+        // }
+        // for(int i=0;i<t.length();i++)
