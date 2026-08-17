@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-24-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-25-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **16** | 66.7% | `█████████████░░░░░░░` |
-| 🟡 **Medium** | **7** | 29.2% | `██████░░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 4.2% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **24** | 100% | `████████████████████` |
+| 🟢 **Easy** | **17** | 68.0% | `██████████████░░░░░░` |
+| 🟡 **Medium** | **7** | 28.0% | `██████░░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 4.0% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **25** | 100% | `████████████████████` |
 
 </div>
 
@@ -43,6 +43,7 @@
 | 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | C++ | Binary Search | [`0162-find-peak-element`](./0162-find-peak-element/) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | C++ | Boyer-Moore Voting | [`0169-majority-element`](./0169-majority-element/) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | C++ | Two Pointers | [`0189-rotate-array`](./0189-rotate-array/) |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | C++ | Arrays & Hashing | [`0205-isomorphic-strings`](./0205-isomorphic-strings/) |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | C++ | Prefix Sum | [`0238-product-of-array-except-self`](./0238-product-of-array-except-self/) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | C++ | Arrays & Hashing | [`0242-valid-anagram`](./0242-valid-anagram/) |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | C++ | Bit Manipulation | [`0268-missing-number`](./0268-missing-number/) |
