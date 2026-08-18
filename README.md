@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-25-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-26-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **17** | 68.0% | `██████████████░░░░░░` |
-| 🟡 **Medium** | **7** | 28.0% | `██████░░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 4.0% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **25** | 100% | `████████████████████` |
+| 🟢 **Easy** | **18** | 69.2% | `██████████████░░░░░░` |
+| 🟡 **Medium** | **7** | 26.9% | `█████░░░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 3.8% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **26** | 100% | `████████████████████` |
 
 </div>
 
@@ -55,6 +55,7 @@
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | C++ | Two Pointers | [`0977-squares-of-a-sorted-array`](./0977-squares-of-a-sorted-array/) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | C++ | Arrays & Hashing | [`1752-check-if-array-is-sorted-and-rotated`](./1752-check-if-array-is-sorted-and-rotated/) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | C++ | Two Pointers | [`2149-rearrange-array-elements-by-sign`](./2149-rearrange-array-elements-by-sign/) |
+| 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`3471-find-the-largest-almost-missing-integer`](./3471-find-the-largest-almost-missing-integer/) |
 
 ---
 
