@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-26-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-27-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **18** | 69.2% | `██████████████░░░░░░` |
-| 🟡 **Medium** | **7** | 26.9% | `█████░░░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 3.8% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **26** | 100% | `████████████████████` |
+| 🟢 **Easy** | **18** | 66.7% | `█████████████░░░░░░░` |
+| 🟡 **Medium** | **8** | 29.6% | `██████░░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 3.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **27** | 100% | `████████████████████` |
 
 </div>
 
@@ -40,6 +40,7 @@
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | C++ | Sorting / Two Pointers | [`0088-merge-sorted-array`](./0088-merge-sorted-array/) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | C++ | Dynamic Programming | [`0121-best-time-to-buy-and-sell-stock`](./0121-best-time-to-buy-and-sell-stock/) |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | C++ | Bit Manipulation | [`0136-single-number`](./0136-single-number/) |
+| 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | C++ | Arrays & Hashing | [`0151-reverse-words-in-a-string`](./0151-reverse-words-in-a-string/) |
 | 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | C++ | Binary Search | [`0162-find-peak-element`](./0162-find-peak-element/) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | C++ | Boyer-Moore Voting | [`0169-majority-element`](./0169-majority-element/) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | C++ | Two Pointers | [`0189-rotate-array`](./0189-rotate-array/) |
