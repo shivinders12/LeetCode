@@ -1,17 +1,22 @@
-            }
+            int j = i;
 
-          
-            if(!ans.empty())
+            while(j >= 0 && s[j] != ' ')
             {
-                ans += ' ';
+            if(i < 0)
+                break;
+
+  
             }
 
-            ans += s.substr(j + 1, i - j);
+        {
+            
+            while(i >= 0 && s[i] == ' ')
+            {
+                i--;
 
-           
-            i = j - 1;
-        }
-
-        return ans;
-    }
-};
+        while(i >= 0)
+        string ans;
+        int i = s.length() - 1;
+class Solution {
+public:
+    string reverseWords(string s) {
