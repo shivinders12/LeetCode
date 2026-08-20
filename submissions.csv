@@ -25,4 +25,5 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 977,"Squares of a Sorted Array",Easy,C++,https://leetcode.com/problems/squares-of-a-sorted-array/,2026-08-16 03:40:45
 1752,"Check if Array Is Sorted and Rotated",Easy,C++,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,2026-08-16 03:39:45
 2149,"Rearrange Array Elements by Sign",Medium,C++,https://leetcode.com/problems/rearrange-array-elements-by-sign/,2026-08-16 03:36:30
+3069,"Distribute Elements Into Two Arrays I",Easy,C++,https://leetcode.com/problems/distribute-elements-into-two-arrays-i/,2026-08-20 10:12:48
 3471,"Find the Largest Almost Missing Integer",Easy,C++,https://leetcode.com/problems/find-the-largest-almost-missing-integer/,2026-08-18 12:12:57
