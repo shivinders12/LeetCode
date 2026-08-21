@@ -1,5 +1,6 @@
 Problem Number,Title,Difficulty,Language,URL,Timestamp
 1,"Two Sum",Easy,C++,https://leetcode.com/problems/two-sum/,2026-08-15 13:11:16
+13,"Roman to Integer",Easy,C++,https://leetcode.com/problems/roman-to-integer/,2026-08-21 17:04:50
 26,"Remove Duplicates from Sorted Array",Easy,C++,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,2026-08-16 03:38:44
 31,"Next Permutation",Medium,C++,https://leetcode.com/problems/next-permutation/,2026-08-16 03:33:48
 35,"Search Insert Position",Easy,C++,https://leetcode.com/problems/search-insert-position/,2026-08-16 03:30:12
