@@ -3,21 +3,21 @@
                     for(int i=st+1;i<end;i++)
                     {
                     
-                        ans= ans + s[i];
-                    }
-                    st=i+1;
-                    end=i;
-                }
-
-            }
-
-
-        }
-        return ans;
-        
-    }
-};
             }
             else{
                 end++;
                 std.pop();
+                std.push(s[i]);
+                end++;
+            if(s[i]=='(')
+            {
+        for(int i=0;i<s.length();i++)
+        {
+        int st=0;
+        int end=-1;
+
+        string ans;
+        stack<char> std;
+public:
+    string removeOuterParentheses(string s) {
+class Solution {
