@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-29-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-30-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **20** | 69.0% | `██████████████░░░░░░` |
-| 🟡 **Medium** | **8** | 27.6% | `██████░░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 3.4% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **29** | 100% | `████████████████████` |
+| 🟢 **Easy** | **20** | 66.7% | `█████████████░░░░░░░` |
+| 🟡 **Medium** | **9** | 30.0% | `██████░░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **30** | 100% | `████████████████████` |
 
 </div>
 
@@ -50,6 +50,7 @@
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | C++ | Bit Manipulation | [`0268-missing-number`](./0268-missing-number/) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | C++ | Two Pointers | [`0283-move-zeroes`](./0283-move-zeroes/) |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | C++ | Prefix Sum | [`0303-range-sum-query-immutable`](./0303-range-sum-query-immutable/) |
+| 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | C++ | Arrays & Hashing | [`0451-sort-characters-by-frequency`](./0451-sort-characters-by-frequency/) |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | C++ | Arrays & Hashing | [`0485-max-consecutive-ones`](./0485-max-consecutive-ones/) |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | C++ | Binary Search | [`0704-binary-search`](./0704-binary-search/) |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | C++ | Arrays & Hashing | [`0796-rotate-string`](./0796-rotate-string/) |
