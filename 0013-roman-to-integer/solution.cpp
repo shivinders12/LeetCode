@@ -1,15 +1,19 @@
         {
-            if(mp[s[i]]>=mp[s[i+1]])
-            {
-            }
-        }
+        for(int i=0;i<s.length();i++)
 
-        return ans;
-                ans = ans + mp[s[i]];
-            else{
-                ans= ans+ (mp[s[i+1]]-mp[s[i]]);
-            }
-                i++;
-        
-    }
-};
+
+        int ans=0;
+          {'M', 1000}
+        };
+          {'D', 500},
+          {'C', 100},
+          {'L', 50},
+          {'X', 10},
+          {'V', 5},
+          {'I', 1},
+        unordered_map<char, int> mp = {
+    
+
+    int romanToInt(string s) {
+public:
+class Solution {
