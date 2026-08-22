@@ -31,3 +31,4 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 2149,"Rearrange Array Elements by Sign",Medium,C++,https://leetcode.com/problems/rearrange-array-elements-by-sign/,2026-08-16 03:36:30
 3069,"Distribute Elements Into Two Arrays I",Easy,C++,https://leetcode.com/problems/distribute-elements-into-two-arrays-i/,2026-08-20 10:12:48
 3471,"Find the Largest Almost Missing Integer",Easy,C++,https://leetcode.com/problems/find-the-largest-almost-missing-integer/,2026-08-18 12:12:57
+3622,"Check Divisibility by Digit Sum and Product",Easy,C++,https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/,2026-08-22 10:47:22
