@@ -31,6 +31,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 1614,"Maximum Nesting Depth of the Parentheses",Easy,C++,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/,2026-08-22 15:14:32
 1752,"Check if Array Is Sorted and Rotated",Easy,C++,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,2026-08-16 03:39:45
 1781,"Sum of Beauty of All Substrings",Medium,C++,https://leetcode.com/problems/sum-of-beauty-of-all-substrings/,2026-08-22 10:34:39
+1903,"Largest Odd Number in String",Easy,C++,https://leetcode.com/problems/largest-odd-number-in-string/,2026-08-22 15:52:15
 2149,"Rearrange Array Elements by Sign",Medium,C++,https://leetcode.com/problems/rearrange-array-elements-by-sign/,2026-08-16 03:36:30
 3069,"Distribute Elements Into Two Arrays I",Easy,C++,https://leetcode.com/problems/distribute-elements-into-two-arrays-i/,2026-08-20 10:12:48
 3471,"Find the Largest Almost Missing Integer",Easy,C++,https://leetcode.com/problems/find-the-largest-almost-missing-integer/,2026-08-18 12:12:57
