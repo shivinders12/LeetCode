@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-37-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-38-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **24** | 64.9% | `█████████████░░░░░░░` |
-| 🟡 **Medium** | **12** | 32.4% | `██████░░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **37** | 100% | `████████████████████` |
+| 🟢 **Easy** | **25** | 65.8% | `█████████████░░░░░░░` |
+| 🟡 **Medium** | **12** | 31.6% | `██████░░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 2.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **38** | 100% | `████████████████████` |
 
 </div>
 
@@ -34,6 +34,7 @@
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | C++ | Arrays & Hashing | [`0005-longest-palindromic-substring`](./0005-longest-palindromic-substring/) |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | C++ | Arrays & Hashing | [`0008-string-to-integer-atoi`](./0008-string-to-integer-atoi/) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`0013-roman-to-integer`](./0013-roman-to-integer/) |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | C++ | Arrays & Hashing | [`0014-longest-common-prefix`](./0014-longest-common-prefix/) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | C++ | Two Pointers | [`0026-remove-duplicates-from-sorted-array`](./0026-remove-duplicates-from-sorted-array/) |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | C++ | Two Pointers | [`0031-next-permutation`](./0031-next-permutation/) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | C++ | Binary Search | [`0035-search-insert-position`](./0035-search-insert-position/) |
