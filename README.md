@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-33-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-34-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **22** | 66.7% | `█████████████░░░░░░░` |
-| 🟡 **Medium** | **10** | 30.3% | `██████░░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 3.0% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **33** | 100% | `████████████████████` |
+| 🟢 **Easy** | **22** | 64.7% | `█████████████░░░░░░░` |
+| 🟡 **Medium** | **11** | 32.4% | `██████░░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 2.9% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **34** | 100% | `████████████████████` |
 
 </div>
 
@@ -31,6 +31,7 @@
 | # | Problem Title | Difficulty | Language | Category | Solution Folder |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | C++ | Hash Table | [`0001-two-sum`](./0001-two-sum/) |
+| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | C++ | Arrays & Hashing | [`0008-string-to-integer-atoi`](./0008-string-to-integer-atoi/) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`0013-roman-to-integer`](./0013-roman-to-integer/) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | C++ | Two Pointers | [`0026-remove-duplicates-from-sorted-array`](./0026-remove-duplicates-from-sorted-array/) |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | C++ | Two Pointers | [`0031-next-permutation`](./0031-next-permutation/) |
