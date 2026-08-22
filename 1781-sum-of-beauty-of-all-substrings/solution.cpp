@@ -1,11 +1,3 @@
-    int getmaxfreq(vector<int> v)
-    {
-
-        int max=0;
-        for(int i=0;i<26;i++)
-        {
-            if(v[i]>max)
-            {   
                 max=v[i];
             }
         }
@@ -17,3 +9,11 @@
         for(int i=0;i<26;i++)
         {
             if(v[i]!=0 && v[i]<min)
+            {
+                min=v[i];
+            }
+
+        }
+        return min;
+    }
+};
