@@ -9,6 +9,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 35,"Search Insert Position",Easy,C++,https://leetcode.com/problems/search-insert-position/,2026-08-16 03:30:12
 42,"Trapping Rain Water",Hard,C++,https://leetcode.com/problems/trapping-rain-water/,2026-08-16 03:32:00
 53,"Maximum Subarray",Medium,C++,https://leetcode.com/problems/maximum-subarray/,2026-08-16 03:42:00
+54,"Spiral Matrix",Medium,C++,https://leetcode.com/problems/spiral-matrix/,2026-08-23 00:01:15
 75,"Sort Colors",Medium,C++,https://leetcode.com/problems/sort-colors/,2026-08-16 03:41:08
 88,"Merge Sorted Array",Easy,C++,https://leetcode.com/problems/merge-sorted-array/,2026-08-16 03:41:30
 121,"Best Time to Buy and Sell Stock",Easy,C++,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,2026-08-16 03:43:00
