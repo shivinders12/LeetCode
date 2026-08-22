@@ -20,5 +20,5 @@
          }
 
         return s.substr(start, maxLen);
-
-    }
+                    start = left;
+                    maxLen = right - left + 1;
