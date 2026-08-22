@@ -27,6 +27,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 796,"Rotate String",Easy,C++,https://leetcode.com/problems/rotate-string/,2026-08-17 12:07:00
 977,"Squares of a Sorted Array",Easy,C++,https://leetcode.com/problems/squares-of-a-sorted-array/,2026-08-16 03:40:45
 1021,"Remove Outermost Parentheses",Easy,C++,https://leetcode.com/problems/remove-outermost-parentheses/,2026-08-21 11:39:20
+1614,"Maximum Nesting Depth of the Parentheses",Easy,C++,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/,2026-08-22 15:14:32
 1752,"Check if Array Is Sorted and Rotated",Easy,C++,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,2026-08-16 03:39:45
 1781,"Sum of Beauty of All Substrings",Medium,C++,https://leetcode.com/problems/sum-of-beauty-of-all-substrings/,2026-08-22 10:34:39
 2149,"Rearrange Array Elements by Sign",Medium,C++,https://leetcode.com/problems/rearrange-array-elements-by-sign/,2026-08-16 03:36:30
