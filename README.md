@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-32-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-33-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **21** | 65.6% | `█████████████░░░░░░░` |
-| 🟡 **Medium** | **10** | 31.3% | `██████░░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 3.1% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **32** | 100% | `████████████████████` |
+| 🟢 **Easy** | **22** | 66.7% | `█████████████░░░░░░░` |
+| 🟡 **Medium** | **10** | 30.3% | `██████░░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 3.0% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **33** | 100% | `████████████████████` |
 
 </div>
 
@@ -62,6 +62,7 @@
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | C++ | Two Pointers | [`2149-rearrange-array-elements-by-sign`](./2149-rearrange-array-elements-by-sign/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3069-distribute-elements-into-two-arrays-i`](./3069-distribute-elements-into-two-arrays-i/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`3471-find-the-largest-almost-missing-integer`](./3471-find-the-largest-almost-missing-integer/) |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | C++ | Arrays & Hashing | [`3622-check-divisibility-by-digit-sum-and-product`](./3622-check-divisibility-by-digit-sum-and-product/) |
 
 ---
 
