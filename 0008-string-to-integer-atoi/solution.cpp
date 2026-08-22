@@ -1,5 +1,3 @@
-        }
-
         while(i < s.length() && s[i] >= '0' && s[i] <= '9')
         {
             ans = ans * 10 + (s[i] - '0');
@@ -13,12 +11,11 @@
             i++;
         }
 
+        if(negative)
+            return -ans;
 
-            i++;
-                negative = true;
-            if(s[i] == '-')
-        if(i < s.length() && (s[i] == '-' || s[i] == '+'))
-        {
-
+        return ans;
+    }
+};
         }
-            i++;
+
