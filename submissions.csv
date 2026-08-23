@@ -13,6 +13,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 75,"Sort Colors",Medium,C++,https://leetcode.com/problems/sort-colors/,2026-08-16 03:41:08
 88,"Merge Sorted Array",Easy,C++,https://leetcode.com/problems/merge-sorted-array/,2026-08-16 03:41:30
 121,"Best Time to Buy and Sell Stock",Easy,C++,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,2026-08-16 03:43:00
+128,"Longest Consecutive Sequence",Medium,C++,https://leetcode.com/problems/longest-consecutive-sequence/,2026-08-23 12:07:15
 136,"Single Number",Easy,C++,https://leetcode.com/problems/single-number/,2026-08-16 03:31:27
 151,"Reverse Words in a String",Medium,C++,https://leetcode.com/problems/reverse-words-in-a-string/,2026-08-19 11:02:08
 162,"Find Peak Element",Medium,C++,https://leetcode.com/problems/find-peak-element/,2026-08-16 04:13:46
