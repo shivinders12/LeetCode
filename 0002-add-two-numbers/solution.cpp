@@ -1,4 +1,3 @@
-
             if (l1 != nullptr) {
                 sum += l1->val;
                 l1 = l1->next;
