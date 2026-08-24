@@ -22,6 +22,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 169,"Majority Element",Easy,C++,https://leetcode.com/problems/majority-element/,2026-08-16 03:40:30
 189,"Rotate Array",Medium,C++,https://leetcode.com/problems/rotate-array/,2026-08-16 03:39:00
 205,"Isomorphic Strings",Easy,C++,https://leetcode.com/problems/isomorphic-strings/,2026-08-17 21:49:17
+234,"Palindrome Linked List",Easy,C++,https://leetcode.com/problems/palindrome-linked-list/,2026-08-24 14:34:53
 237,"Delete Node in a Linked List",Medium,C++,https://leetcode.com/problems/delete-node-in-a-linked-list/,2026-08-24 10:35:02
 238,"Product of Array Except Self",Medium,C++,https://leetcode.com/problems/product-of-array-except-self/,2026-08-16 03:37:43
 242,"Valid Anagram",Easy,C++,https://leetcode.com/problems/valid-anagram/,2026-08-16 10:04:45
