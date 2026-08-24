@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-42-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-43-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **26** | 61.9% | `████████████░░░░░░░░` |
-| 🟡 **Medium** | **15** | 35.7% | `███████░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 2.4% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **42** | 100% | `████████████████████` |
+| 🟢 **Easy** | **26** | 60.5% | `████████████░░░░░░░░` |
+| 🟡 **Medium** | **16** | 37.2% | `███████░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 2.3% | `░░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **43** | 100% | `████████████████████` |
 
 </div>
 
@@ -31,6 +31,7 @@
 | # | Problem Title | Difficulty | Language | Category | Solution Folder |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | C++ | Hash Table | [`0001-two-sum`](./0001-two-sum/) |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | C++ | Arrays & Hashing | [`0002-add-two-numbers`](./0002-add-two-numbers/) |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | C++ | Arrays & Hashing | [`0005-longest-palindromic-substring`](./0005-longest-palindromic-substring/) |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | C++ | Arrays & Hashing | [`0008-string-to-integer-atoi`](./0008-string-to-integer-atoi/) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`0013-roman-to-integer`](./0013-roman-to-integer/) |
