@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-40-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-41-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **25** | 62.5% | `█████████████░░░░░░░` |
-| 🟡 **Medium** | **14** | 35.0% | `███████░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 2.5% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **40** | 100% | `████████████████████` |
+| 🟢 **Easy** | **26** | 63.4% | `█████████████░░░░░░░` |
+| 🟡 **Medium** | **14** | 34.1% | `███████░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 2.4% | `░░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **41** | 100% | `████████████████████` |
 
 </div>
 
@@ -42,6 +42,7 @@
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | C++ | Dynamic Programming | [`0053-maximum-subarray`](./0053-maximum-subarray/) |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | C++ | Arrays & Hashing | [`0054-spiral-matrix`](./0054-spiral-matrix/) |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | C++ | Sorting / Two Pointers | [`0075-sort-colors`](./0075-sort-colors/) |
+| 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | C++ | Two Pointers | [`0083-remove-duplicates-from-sorted-list`](./0083-remove-duplicates-from-sorted-list/) |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | C++ | Sorting / Two Pointers | [`0088-merge-sorted-array`](./0088-merge-sorted-array/) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | C++ | Dynamic Programming | [`0121-best-time-to-buy-and-sell-stock`](./0121-best-time-to-buy-and-sell-stock/) |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | C++ | Arrays & Hashing | [`0128-longest-consecutive-sequence`](./0128-longest-consecutive-sequence/) |
