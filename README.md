@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-45-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-46-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **28** | 62.2% | `████████████░░░░░░░░` |
-| 🟡 **Medium** | **16** | 35.6% | `███████░░░░░░░░░░░░░` |
+| 🟢 **Easy** | **29** | 63.0% | `█████████████░░░░░░░` |
+| 🟡 **Medium** | **16** | 34.8% | `███████░░░░░░░░░░░░░` |
 | 🔴 **Hard** | **1** | 2.2% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **45** | 100% | `████████████████████` |
+| 🏆 **Total** | **46** | 100% | `████████████████████` |
 
 </div>
 
@@ -65,6 +65,7 @@
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | C++ | Arrays & Hashing | [`0485-max-consecutive-ones`](./0485-max-consecutive-ones/) |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | C++ | Binary Search | [`0704-binary-search`](./0704-binary-search/) |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | C++ | Arrays & Hashing | [`0796-rotate-string`](./0796-rotate-string/) |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | C++ | Arrays & Hashing | [`0876-middle-of-the-linked-list`](./0876-middle-of-the-linked-list/) |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | C++ | Two Pointers | [`0977-squares-of-a-sorted-array`](./0977-squares-of-a-sorted-array/) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`1021-remove-outermost-parentheses`](./1021-remove-outermost-parentheses/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`1614-maximum-nesting-depth-of-the-parentheses`](./1614-maximum-nesting-depth-of-the-parentheses/) |
