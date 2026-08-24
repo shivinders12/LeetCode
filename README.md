@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-47-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-48-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **30** | 63.8% | `█████████████░░░░░░░` |
-| 🟡 **Medium** | **16** | 34.0% | `███████░░░░░░░░░░░░░` |
+| 🟢 **Easy** | **30** | 62.5% | `█████████████░░░░░░░` |
+| 🟡 **Medium** | **17** | 35.4% | `███████░░░░░░░░░░░░░` |
 | 🔴 **Hard** | **1** | 2.1% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **47** | 100% | `████████████████████` |
+| 🏆 **Total** | **48** | 100% | `████████████████████` |
 
 </div>
 
@@ -49,6 +49,7 @@
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | C++ | Arrays & Hashing | [`0128-longest-consecutive-sequence`](./0128-longest-consecutive-sequence/) |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | C++ | Bit Manipulation | [`0136-single-number`](./0136-single-number/) |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | C++ | Arrays & Hashing | [`0141-linked-list-cycle`](./0141-linked-list-cycle/) |
+| 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`0142-linked-list-cycle-ii`](./0142-linked-list-cycle-ii/) |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | C++ | Arrays & Hashing | [`0151-reverse-words-in-a-string`](./0151-reverse-words-in-a-string/) |
 | 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | C++ | Binary Search | [`0162-find-peak-element`](./0162-find-peak-element/) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | C++ | Boyer-Moore Voting | [`0169-majority-element`](./0169-majority-element/) |
