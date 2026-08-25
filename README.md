@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-50-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-51-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **30** | 60.0% | `████████████░░░░░░░░` |
-| 🟡 **Medium** | **19** | 38.0% | `████████░░░░░░░░░░░░` |
+| 🟢 **Easy** | **31** | 60.8% | `████████████░░░░░░░░` |
+| 🟡 **Medium** | **19** | 37.3% | `███████░░░░░░░░░░░░░` |
 | 🔴 **Hard** | **1** | 2.0% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **50** | 100% | `████████████████████` |
+| 🏆 **Total** | **51** | 100% | `████████████████████` |
 
 </div>
 
@@ -80,6 +80,7 @@
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3069-distribute-elements-into-two-arrays-i`](./3069-distribute-elements-into-two-arrays-i/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`3471-find-the-largest-almost-missing-integer`](./3471-find-the-largest-almost-missing-integer/) |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | C++ | Arrays & Hashing | [`3622-check-divisibility-by-digit-sum-and-product`](./3622-check-divisibility-by-digit-sum-and-product/) |
+| 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | C++ | Arrays & Hashing | [`3718-smallest-missing-multiple-of-k`](./3718-smallest-missing-multiple-of-k/) |
 
 ---
 
