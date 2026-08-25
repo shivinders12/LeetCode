@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-48-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-49-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **30** | 62.5% | `█████████████░░░░░░░` |
-| 🟡 **Medium** | **17** | 35.4% | `███████░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 2.1% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **48** | 100% | `████████████████████` |
+| 🟢 **Easy** | **30** | 61.2% | `████████████░░░░░░░░` |
+| 🟡 **Medium** | **18** | 36.7% | `███████░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 2.0% | `░░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **49** | 100% | `████████████████████` |
 
 </div>
 
@@ -74,6 +74,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | C++ | Arrays & Hashing | [`1752-check-if-array-is-sorted-and-rotated`](./1752-check-if-array-is-sorted-and-rotated/) |
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | 🟡 Medium | C++ | Arrays & Hashing | [`1781-sum-of-beauty-of-all-substrings`](./1781-sum-of-beauty-of-all-substrings/) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | 🟢 Easy | C++ | Arrays & Hashing | [`1903-largest-odd-number-in-string`](./1903-largest-odd-number-in-string/) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`2095-delete-the-middle-node-of-a-linked-list`](./2095-delete-the-middle-node-of-a-linked-list/) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | C++ | Two Pointers | [`2149-rearrange-array-elements-by-sign`](./2149-rearrange-array-elements-by-sign/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3069-distribute-elements-into-two-arrays-i`](./3069-distribute-elements-into-two-arrays-i/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`3471-find-the-largest-almost-missing-integer`](./3471-find-the-largest-almost-missing-integer/) |
