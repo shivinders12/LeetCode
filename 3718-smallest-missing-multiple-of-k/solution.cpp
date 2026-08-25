@@ -1,8 +1,3 @@
-            if(nums[i]%k==0)
-            {
-                int x=nums[i]/k;
-                if(x>=max)
-                {
                     max=x;
                 }
             }
@@ -12,13 +7,17 @@
         {
             for(int j=0;j<nums.size();j++)
             {
+            bool found=false;
                 if(nums[j]==(k*i)) found=true;
             }
+            if(found==false) return i*k;
         }
 
-            bool found=false;
-            if(found==false) return i*k;
       
 
 
         return (max+1)*k;
+
+        
+    }
+};
