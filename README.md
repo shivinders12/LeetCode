@@ -26,6 +26,22 @@
 
 ---
 
+## ⚡ Rolling Performance (Last 10 Submissions Avg)
+
+<div align="center">
+
+| Metric | Value | Breakdown / Progress |
+| :--- | :---: | :--- |
+| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
+| ⏱️ **Average Solving Pace** | **2.4 hrs / problem** | `Based on last 10 submissions` |
+| 🟢 **Easy (Last 10)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium (Last 10)** | **6** (60.0%) | `████████████░░░░░░░░` |
+| 🔴 **Hard (Last 10)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
+
+</div>
+
+---
+
 ## 📁 Solved Problems Index
 
 | # | Problem Title | Difficulty | Language | Category | Solution Folder |
