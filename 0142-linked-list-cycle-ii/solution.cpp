@@ -17,3 +17,7 @@ public:
 
     if (visited.find(curr) != visited.end()) {
         // This node was already visited
+        return curr;
+    }
+
+        visited.insert(curr);
