@@ -1,23 +1,23 @@
-                    max=x;
-                }
-            }
-        }
 
         for(int i=1;i<max;i++)
         {
             for(int j=0;j<nums.size();j++)
             {
             bool found=false;
-                if(nums[j]==(k*i)) found=true;
-            }
-            if(found==false) return i*k;
         }
+                }
+            }
+                {
+                    max=x;
+                int x=nums[i]/k;
+                if(x>=max)
+            if(nums[i]%k==0)
+            {
+        {
+        for(int i=0;i<nums.size();i++)
+    
+        int max=0;
+    int missingMultiple(vector<int>& nums, int k) {
 
-      
-
-
-        return (max+1)*k;
-
-        
-    }
-};
+class Solution {
+public:
