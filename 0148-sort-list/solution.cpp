@@ -1,23 +1,24 @@
-        // Find middle
+   
         ListNode* slow = head;
         ListNode* fast = head->next;
 
         while (fast != nullptr && fast->next != nullptr) {
             slow = slow->next;
             fast = fast->next->next;
+
         }
 
-        // Split into two halves
-        ListNode* right = slow->next;
-        slow->next = nullptr;
+        }
 
-        ListNode* left = head;
-
-        // Sort both halves
-        left = sortList(left);
-        right = sortList(right);
-
-        // Merge sorted halves
-        return merge(left, right);
+        // 0 or 1 node -> already sorted
+        if (head == nullptr || head->next == nullptr) {
+            return head;
     }
-};
+
+    ListNode* sortList(ListNode* head) {
+            temp->next = right;
+
+        return dummy.next;
+            temp->next = left;
+        else
+        if (left != nullptr)
