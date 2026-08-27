@@ -22,6 +22,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 142,"Linked List Cycle II",Medium,C++,https://leetcode.com/problems/linked-list-cycle-ii/,2026-08-25 12:24:24
 148,"Sort List",Medium,C++,https://leetcode.com/problems/sort-list/,2026-08-26 10:14:40
 151,"Reverse Words in a String",Medium,C++,https://leetcode.com/problems/reverse-words-in-a-string/,2026-08-19 11:02:08
+160,"Intersection of Two Linked Lists",Easy,C++,https://leetcode.com/problems/intersection-of-two-linked-lists/,2026-08-27 14:43:11
 162,"Find Peak Element",Medium,C++,https://leetcode.com/problems/find-peak-element/,2026-08-16 04:13:46
 169,"Majority Element",Easy,C++,https://leetcode.com/problems/majority-element/,2026-08-16 03:40:30
 189,"Rotate Array",Medium,C++,https://leetcode.com/problems/rotate-array/,2026-08-16 03:39:00
