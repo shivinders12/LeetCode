@@ -1,20 +1,23 @@
-
-      
-        temp = headB;
-
         while (temp != nullptr) {
-
-            for (int i = 0; i < v.size(); i++) {
-                if (temp == v[i]) {
-                    return temp;
-                }
-            }
-
+            st.insert(temp);
             temp = temp->next;
         }
 
-        return nullptr;
-        
-    }
-};
-        }
+     
+        temp = headB;
+
+        while (temp != nullptr) {
+            if (st.find(temp) != st.end()) {
+                return temp;  
+            }
+
+            temp = temp->next;
+
+        ListNode* temp = headA;
+     
+
+        unordered_set<ListNode*> st;
+
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+public:
+class Solution {
