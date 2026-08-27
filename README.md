@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-54-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-3.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-55-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-3.10%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **32** | 59.3% | `████████████░░░░░░░░` |
-| 🟡 **Medium** | **21** | 38.9% | `████████░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 1.9% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **54** | 100% | `████████████████████` |
+| 🟢 **Easy** | **33** | 60.0% | `████████████░░░░░░░░` |
+| 🟡 **Medium** | **21** | 38.2% | `████████░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 1.8% | `░░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **55** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **3.00 questions / day** | `30 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **3.10 questions / day** | `31 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
-| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.50 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -47,6 +47,7 @@
 
 | # | Problem Title | Difficulty | Language | Category | Solution Folder |
 | :---: | :--- | :---: | :---: | :---: | :---: |
+| 0000 | [Intersection of Two Linked Lists](https://leetcode.com/problems/add-two-integers/) | 🟢 Easy | C++ | Arrays & Hashing | [`0000-add-two-integers`](./0000-add-two-integers/) |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | C++ | Hash Table | [`0001-two-sum`](./0001-two-sum/) |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | C++ | Arrays & Hashing | [`0002-add-two-numbers`](./0002-add-two-numbers/) |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | C++ | Arrays & Hashing | [`0005-longest-palindromic-substring`](./0005-longest-palindromic-substring/) |
