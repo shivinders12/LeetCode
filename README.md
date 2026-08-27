@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-53-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-3.10%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-54-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-3.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **31** | 58.5% | `████████████░░░░░░░░` |
-| 🟡 **Medium** | **21** | 39.6% | `████████░░░░░░░░░░░░` |
+| 🟢 **Easy** | **32** | 59.3% | `████████████░░░░░░░░` |
+| 🟡 **Medium** | **21** | 38.9% | `████████░░░░░░░░░░░░` |
 | 🔴 **Hard** | **1** | 1.9% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **53** | 100% | `████████████████████` |
+| 🏆 **Total** | **54** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **3.10 questions / day** | `31 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **3.00 questions / day** | `30 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
-| 🎯 **Avg Difficulty Score** | **1.70 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **7** (70.0%) | `██████████████░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -70,6 +70,7 @@
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`0142-linked-list-cycle-ii`](./0142-linked-list-cycle-ii/) |
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0148-sort-list`](./0148-sort-list/) |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | C++ | Arrays & Hashing | [`0151-reverse-words-in-a-string`](./0151-reverse-words-in-a-string/) |
+| 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | C++ | Arrays & Hashing | [`0160-intersection-of-two-linked-lists`](./0160-intersection-of-two-linked-lists/) |
 | 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | C++ | Binary Search | [`0162-find-peak-element`](./0162-find-peak-element/) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | C++ | Boyer-Moore Voting | [`0169-majority-element`](./0169-majority-element/) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | C++ | Two Pointers | [`0189-rotate-array`](./0189-rotate-array/) |
