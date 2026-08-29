@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-57-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-58-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-3.20%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **35** | 61.4% | `████████████░░░░░░░░` |
-| 🟡 **Medium** | **21** | 36.8% | `███████░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 1.8% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **57** | 100% | `████████████████████` |
+| 🟢 **Easy** | **36** | 62.1% | `████████████░░░░░░░░` |
+| 🟡 **Medium** | **21** | 36.2% | `███████░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 1.7% | `░░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **58** | 100% | `████████████████████` |
 
 </div>
 
@@ -34,9 +34,9 @@
 | :--- | :---: | :--- |
 | 📊 **10-Day Daily Average** | **3.20 questions / day** | `32 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
-| 🎯 **Avg Difficulty Score** | **1.40 / 3.00** | 🟢 Easy Focus |
-| 🟢 **Easy (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.30 / 3.00** | 🟢 Easy Focus |
+| 🟢 **Easy (Recent)** | **7** (70.0%) | `██████████████░░░░░░` |
+| 🟡 **Medium (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -52,6 +52,7 @@
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | C++ | Arrays & Hashing | [`0002-add-two-numbers`](./0002-add-two-numbers/) |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | C++ | Arrays & Hashing | [`0005-longest-palindromic-substring`](./0005-longest-palindromic-substring/) |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | C++ | Arrays & Hashing | [`0008-string-to-integer-atoi`](./0008-string-to-integer-atoi/) |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | C++ | Arrays & Hashing | [`0009-palindrome-number`](./0009-palindrome-number/) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`0013-roman-to-integer`](./0013-roman-to-integer/) |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | C++ | Arrays & Hashing | [`0014-longest-common-prefix`](./0014-longest-common-prefix/) |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0019-remove-nth-node-from-end-of-list`](./0019-remove-nth-node-from-end-of-list/) |
