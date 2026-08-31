@@ -34,9 +34,9 @@
 | :--- | :---: | :--- |
 | 📊 **10-Day Daily Average** | **3.10 questions / day** | `31 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
-| 🎯 **Avg Difficulty Score** | **1.50 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.40 / 3.00** | 🟢 Easy Focus |
+| 🟢 **Easy (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
