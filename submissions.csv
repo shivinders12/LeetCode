@@ -51,6 +51,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 1752,"Check if Array Is Sorted and Rotated",Easy,C++,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,2026-08-16 03:39:45
 1781,"Sum of Beauty of All Substrings",Medium,C++,https://leetcode.com/problems/sum-of-beauty-of-all-substrings/,2026-08-22 10:34:39
 1903,"Largest Odd Number in String",Easy,C++,https://leetcode.com/problems/largest-odd-number-in-string/,2026-08-22 15:52:15
+2058,"Find the Minimum and Maximum Number of Nodes Between Critical Points",Medium,C++,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/,2026-08-31 14:55:22
 2095,"Delete the Middle Node of a Linked List",Medium,C++,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/,2026-08-25 10:43:33
 2149,"Rearrange Array Elements by Sign",Medium,C++,https://leetcode.com/problems/rearrange-array-elements-by-sign/,2026-08-16 03:36:30
 2235,"Add Two Integers",Easy,C++,https://leetcode.com/problems/add-two-integers/,2026-08-28 21:15:38
