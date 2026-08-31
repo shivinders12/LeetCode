@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-60-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-3.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-61-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-3.10%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **36** | 60.0% | `████████████░░░░░░░░` |
-| 🟡 **Medium** | **23** | 38.3% | `████████░░░░░░░░░░░░` |
-| 🔴 **Hard** | **1** | 1.7% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **60** | 100% | `████████████████████` |
+| 🟢 **Easy** | **36** | 59.0% | `████████████░░░░░░░░` |
+| 🟡 **Medium** | **24** | 39.3% | `████████░░░░░░░░░░░░` |
+| 🔴 **Hard** | **1** | 1.6% | `░░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **61** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **3.00 questions / day** | `30 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **3.10 questions / day** | `31 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
-| 🎯 **Avg Difficulty Score** | **1.40 / 3.00** | 🟢 Easy Focus |
-| 🟢 **Easy (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.50 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -100,6 +100,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | C++ | Arrays & Hashing | [`1752-check-if-array-is-sorted-and-rotated`](./1752-check-if-array-is-sorted-and-rotated/) |
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | 🟡 Medium | C++ | Arrays & Hashing | [`1781-sum-of-beauty-of-all-substrings`](./1781-sum-of-beauty-of-all-substrings/) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | 🟢 Easy | C++ | Arrays & Hashing | [`1903-largest-odd-number-in-string`](./1903-largest-odd-number-in-string/) |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | 🟡 Medium | C++ | Arrays & Hashing | [`2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points`](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`2095-delete-the-middle-node-of-a-linked-list`](./2095-delete-the-middle-node-of-a-linked-list/) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | C++ | Two Pointers | [`2149-rearrange-array-elements-by-sign`](./2149-rearrange-array-elements-by-sign/) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 Easy | C++ | Arrays & Hashing | [`2235-add-two-integers`](./2235-add-two-integers/) |
