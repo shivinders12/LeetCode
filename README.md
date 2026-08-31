@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-59-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-3.20%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-60-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-3.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **36** | 61.0% | `████████████░░░░░░░░` |
-| 🟡 **Medium** | **22** | 37.3% | `███████░░░░░░░░░░░░░` |
+| 🟢 **Easy** | **36** | 60.0% | `████████████░░░░░░░░` |
+| 🟡 **Medium** | **23** | 38.3% | `████████░░░░░░░░░░░░` |
 | 🔴 **Hard** | **1** | 1.7% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **59** | 100% | `████████████████████` |
+| 🏆 **Total** | **60** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,7 +32,7 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **3.20 questions / day** | `32 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **3.00 questions / day** | `30 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
 | 🎯 **Avg Difficulty Score** | **1.40 / 3.00** | 🟢 Easy Focus |
 | 🟢 **Easy (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
@@ -64,6 +64,7 @@
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | C++ | Two Pointers | [`0042-trapping-rain-water`](./0042-trapping-rain-water/) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | C++ | Dynamic Programming | [`0053-maximum-subarray`](./0053-maximum-subarray/) |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | C++ | Arrays & Hashing | [`0054-spiral-matrix`](./0054-spiral-matrix/) |
+| 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0061-rotate-list`](./0061-rotate-list/) |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | C++ | Sorting / Two Pointers | [`0075-sort-colors`](./0075-sort-colors/) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | C++ | Two Pointers | [`0083-remove-duplicates-from-sorted-list`](./0083-remove-duplicates-from-sorted-list/) |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | C++ | Sorting / Two Pointers | [`0088-merge-sorted-array`](./0088-merge-sorted-array/) |
