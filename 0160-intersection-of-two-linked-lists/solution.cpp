@@ -12,12 +12,8 @@
             }
 
             temp = temp->next;
+        }
 
-        ListNode* temp = headA;
-     
-
-        unordered_set<ListNode*> st;
-
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-public:
-class Solution {
+        return nullptr;
+    }
+};
