@@ -1,5 +1,3 @@
-            return head;
-
         
         temp->next = head;
 
