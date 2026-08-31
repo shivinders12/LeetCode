@@ -1,24 +1,23 @@
-            }
-                nodes.push_back(counting);
+class Solution {
+public:
+    vector<int> nodesBetweenCriticalPoints(ListNode* head) {
 
-           
-            if (temp->val < prev && temp->val < after) {
-                nodes.push_back(counting);
-            }
-
-            prev = temp->val;
-            temp = temp->next;
-        }
-
-     
-        if (nodes.size() < 2)
+        if (head == nullptr || head->next == nullptr || head->next->next == nullptr)
             return {-1, -1};
 
-        int minDistance = INT_MAX;
+        ListNode* temp = head;
+
+        int counting = 1;
+        vector<int> nodes;
+
+        int prev = head->val;
+
+        temp = temp->next;
+
+        while (temp->next != nullptr) {
+
+            counting++;
+
+            int after = temp->next->val;
 
        
-        for (int i = 1; i < nodes.size(); i++) {
-            minDistance = min(minDistance, nodes[i] - nodes[i - 1]);
-        }
-
-     
