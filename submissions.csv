@@ -32,6 +32,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 189,"Rotate Array",Medium,C++,https://leetcode.com/problems/rotate-array/,2026-08-16 03:39:00
 205,"Isomorphic Strings",Easy,C++,https://leetcode.com/problems/isomorphic-strings/,2026-08-17 21:49:17
 206,"Reverse Linked List",Easy,C++,https://leetcode.com/problems/reverse-linked-list/,2026-08-24 14:38:28
+232,"Implement Queue using Stacks",Easy,C++,https://leetcode.com/problems/implement-queue-using-stacks/,2026-08-31 21:17:51
 234,"Palindrome Linked List",Easy,C++,https://leetcode.com/problems/palindrome-linked-list/,2026-08-24 14:34:53
 237,"Delete Node in a Linked List",Medium,C++,https://leetcode.com/problems/delete-node-in-a-linked-list/,2026-08-25 12:02:11
 238,"Product of Array Except Self",Medium,C++,https://leetcode.com/problems/product-of-array-except-self/,2026-08-16 03:37:43
