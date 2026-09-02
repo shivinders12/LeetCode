@@ -62,4 +62,5 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 3471,"Find the Largest Almost Missing Integer",Easy,C++,https://leetcode.com/problems/find-the-largest-almost-missing-integer/,2026-08-18 12:12:57
 3622,"Check Divisibility by Digit Sum and Product",Easy,C++,https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/,2026-08-22 10:47:22
 3718,"Smallest Missing Multiple of K",Easy,C++,https://leetcode.com/problems/smallest-missing-multiple-of-k/,2026-08-25 11:35:22
+3875,"Construct Uniform Parity Array I",Easy,C++,https://leetcode.com/problems/construct-uniform-parity-array-i/,2026-09-02 10:15:25
 --,"Intersection of Two Linked Lists",Easy,C++,https://leetcode.com/problems/add-two-integers/,2026-08-27 14:45:54
