@@ -66,4 +66,5 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 3718,"Smallest Missing Multiple of K",Easy,C++,https://leetcode.com/problems/smallest-missing-multiple-of-k/,2026-08-25 11:35:22
 3875,"Construct Uniform Parity Array I",Easy,C++,https://leetcode.com/problems/construct-uniform-parity-array-i/,2026-09-02 10:15:25
 3876,"Construct Uniform Parity Array II",Medium,C++,https://leetcode.com/problems/construct-uniform-parity-array-ii/,2026-09-03 18:44:20
+3903,"Smallest Stable Index I",Easy,C++,https://leetcode.com/problems/smallest-stable-index-i/,2026-09-04 10:16:32
 --,"Intersection of Two Linked Lists",Easy,C++,https://leetcode.com/problems/add-two-integers/,2026-08-27 14:45:54
