@@ -11,8 +11,6 @@
     {
         vector<vector<int>> ans;
         vector<int> sol;
-
-        solve(sol, ans, target, candidates, 0, 0);
         for (int i = index; i < candidate.size(); i++)
         {
 
@@ -23,4 +21,5 @@
         if (sum == target)
     {
 
-        return ans;
+        solve(sol, ans, target, candidates, 0, 0);
+
