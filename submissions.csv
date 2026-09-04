@@ -15,6 +15,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 31,"Next Permutation",Medium,C++,https://leetcode.com/problems/next-permutation/,2026-08-16 03:33:48
 35,"Search Insert Position",Easy,C++,https://leetcode.com/problems/search-insert-position/,2026-08-16 03:30:12
 39,"Combination Sum",Medium,C++,https://leetcode.com/problems/combination-sum/,2026-09-04 11:04:03
+40,"Combination Sum II",Medium,C++,https://leetcode.com/problems/combination-sum-ii/,2026-09-04 12:31:00
 42,"Trapping Rain Water",Hard,C++,https://leetcode.com/problems/trapping-rain-water/,2026-08-16 03:32:00
 50,"Pow(x, n)",Medium,C++,https://leetcode.com/problems/powx-n/,2026-09-03 19:44:01
 53,"Maximum Subarray",Medium,C++,https://leetcode.com/problems/maximum-subarray/,2026-08-16 03:42:00
