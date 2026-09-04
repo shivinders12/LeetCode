@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-69-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.80%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-70-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **40** | 58.0% | `████████████░░░░░░░░` |
-| 🟡 **Medium** | **28** | 40.6% | `████████░░░░░░░░░░░░` |
+| 🟢 **Easy** | **40** | 57.1% | `███████████░░░░░░░░░` |
+| 🟡 **Medium** | **29** | 41.4% | `████████░░░░░░░░░░░░` |
 | 🔴 **Hard** | **1** | 1.4% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **69** | 100% | `████████████████████` |
+| 🏆 **Total** | **70** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.80 questions / day** | `18 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **1.90 questions / day** | `19 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
-| 🎯 **Avg Difficulty Score** | **1.40 / 3.00** | 🟢 Easy Focus |
-| 🟢 **Easy (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -59,6 +59,7 @@
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0019-remove-nth-node-from-end-of-list`](./0019-remove-nth-node-from-end-of-list/) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`0020-valid-parentheses`](./0020-valid-parentheses/) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | C++ | Arrays & Hashing | [`0021-merge-two-sorted-lists`](./0021-merge-two-sorted-lists/) |
+| 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | C++ | Arrays & Hashing | [`0022-generate-parentheses`](./0022-generate-parentheses/) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | C++ | Two Pointers | [`0026-remove-duplicates-from-sorted-array`](./0026-remove-duplicates-from-sorted-array/) |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | C++ | Two Pointers | [`0031-next-permutation`](./0031-next-permutation/) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | C++ | Binary Search | [`0035-search-insert-position`](./0035-search-insert-position/) |
