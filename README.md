@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-75-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-2.30%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-76-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-2.40%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **40** | 53.3% | `███████████░░░░░░░░░` |
-| 🟡 **Medium** | **34** | 45.3% | `█████████░░░░░░░░░░░` |
+| 🟢 **Easy** | **40** | 52.6% | `███████████░░░░░░░░░` |
+| 🟡 **Medium** | **35** | 46.1% | `█████████░░░░░░░░░░░` |
 | 🔴 **Hard** | **1** | 1.3% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **75** | 100% | `████████████████████` |
+| 🏆 **Total** | **76** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,7 +32,7 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **2.30 questions / day** | `23 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **2.40 questions / day** | `24 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
 | 🎯 **Avg Difficulty Score** | **1.90 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
@@ -56,6 +56,7 @@
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | C++ | Arrays & Hashing | [`0009-palindrome-number`](./0009-palindrome-number/) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`0013-roman-to-integer`](./0013-roman-to-integer/) |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | C++ | Arrays & Hashing | [`0014-longest-common-prefix`](./0014-longest-common-prefix/) |
+| 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | C++ | Arrays & Hashing | [`0017-letter-combinations-of-a-phone-number`](./0017-letter-combinations-of-a-phone-number/) |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0019-remove-nth-node-from-end-of-list`](./0019-remove-nth-node-from-end-of-list/) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`0020-valid-parentheses`](./0020-valid-parentheses/) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | C++ | Arrays & Hashing | [`0021-merge-two-sorted-lists`](./0021-merge-two-sorted-lists/) |
