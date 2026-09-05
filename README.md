@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-72-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-73-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-2.10%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **40** | 55.6% | `███████████░░░░░░░░░` |
-| 🟡 **Medium** | **31** | 43.1% | `█████████░░░░░░░░░░░` |
+| 🟢 **Easy** | **40** | 54.8% | `███████████░░░░░░░░░` |
+| 🟡 **Medium** | **32** | 43.8% | `█████████░░░░░░░░░░░` |
 | 🔴 **Hard** | **1** | 1.4% | `░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **72** | 100% | `████████████████████` |
+| 🏆 **Total** | **73** | 100% | `████████████████████` |
 
 </div>
 
@@ -119,6 +119,7 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3875-construct-uniform-parity-array-i`](./3875-construct-uniform-parity-array-i/) |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`3876-construct-uniform-parity-array-ii`](./3876-construct-uniform-parity-array-ii/) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3903-smallest-stable-index-i`](./3903-smallest-stable-index-i/) |
+| 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`3904-smallest-stable-index-ii`](./3904-smallest-stable-index-ii/) |
 
 ---
 
