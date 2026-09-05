@@ -1,5 +1,3 @@
-        string value = mapping[num];
-
         for (int j = 0; j < value.length(); j++) {
             output.push_back(value[j]);
             solve(digit, output, i + 1, ans, mapping);
@@ -15,12 +13,9 @@ public:
         }
         int i = 0;
         string output;
-        int num = digit[i] - '0';
-
-        }
-            return;
-            ans.push_back(output);
-        if (i >= digit.length()) {
-    void solve(string digit, string output, int i, vector<string>& ans,string mapping[]) {
-private:
-class Solution {
+        string mapping[10] = {"",    "",    "abc",  "def", "ghi",
+                              "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        solve(digit, output, i, ans, mapping);
+        return ans;
+    }
+};
