@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-79-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-2.60%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-80-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-2.70%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **40** | 50.6% | `██████████░░░░░░░░░░` |
-| 🟡 **Medium** | **37** | 46.8% | `█████████░░░░░░░░░░░` |
+| 🟢 **Easy** | **40** | 50.0% | `██████████░░░░░░░░░░` |
+| 🟡 **Medium** | **38** | 47.5% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **2** | 2.5% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **79** | 100% | `████████████████████` |
+| 🏆 **Total** | **80** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,7 +32,7 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **2.60 questions / day** | `26 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **2.70 questions / day** | `27 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
 | 🎯 **Avg Difficulty Score** | **2.10 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
@@ -67,6 +67,7 @@
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | C++ | Arrays & Hashing | [`0039-combination-sum`](./0039-combination-sum/) |
 | 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`0040-combination-sum-ii`](./0040-combination-sum-ii/) |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | C++ | Two Pointers | [`0042-trapping-rain-water`](./0042-trapping-rain-water/) |
+| 0046 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | C++ | Arrays & Hashing | [`0046-permutations`](./0046-permutations/) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | C++ | Arrays & Hashing | [`0050-powx-n`](./0050-powx-n/) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | C++ | Dynamic Programming | [`0053-maximum-subarray`](./0053-maximum-subarray/) |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | C++ | Arrays & Hashing | [`0054-spiral-matrix`](./0054-spiral-matrix/) |
