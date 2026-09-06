@@ -1,21 +1,26 @@
 
-    bool exist(vector<vector<char>>& board, string word)
-    {
-        int n = board.size();
-        int m = board[0].size();
-
-        vector<vector<int>> help(n, vector<int>(m, 0));
-
-      
-        for(int i = 0; i < n; i++)
-        {
-            for(int j = 0; j < m; j++)
-            {
-                if(solve(i, j, 0, board, word, help))
-                    return true;
-            }
-        }
-
-        return false;
+        return ans;
     }
-};
+
+       
+        help[i][j] = 0;
+            solve(i, j - 1, k + 1, board, word, help);
+
+            solve(i + 1, j, k + 1, board, word, help) ||
+            solve(i - 1, j, k + 1, board, word, help) ||
+            solve(i, j + 1, k + 1, board, word, help) ||
+        bool ans =
+
+       
+        help[i][j] = 1;
+        
+
+            return false;
+        if(!isValid(i, j, k, help, board, word))
+       
+        if(k == word.length())
+            return true;
+
+        
+    {
+    bool solve(int i, int j, int k,vector<vector<char>>& board,string& word,vector<vector<int>>& help)
