@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-77-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-2.40%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-78-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-2.50%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **40** | 51.9% | `██████████░░░░░░░░░░` |
-| 🟡 **Medium** | **35** | 45.5% | `█████████░░░░░░░░░░░` |
+| 🟢 **Easy** | **40** | 51.3% | `██████████░░░░░░░░░░` |
+| 🟡 **Medium** | **36** | 46.2% | `█████████░░░░░░░░░░░` |
 | 🔴 **Hard** | **2** | 2.6% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **77** | 100% | `████████████████████` |
+| 🏆 **Total** | **78** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,12 +32,12 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **2.40 questions / day** | `24 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **2.50 questions / day** | `25 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
 | 🎯 **Avg Difficulty Score** | **2.10 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **7** (70.0%) | `██████████████░░░░░░` |
-| 🔴 **Hard (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
+| 🟢 **Easy (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **9** (90.0%) | `██████████████████░░` |
+| 🔴 **Hard (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
 
 </div>
 
@@ -72,6 +72,7 @@
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | C++ | Arrays & Hashing | [`0054-spiral-matrix`](./0054-spiral-matrix/) |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0061-rotate-list`](./0061-rotate-list/) |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | C++ | Sorting / Two Pointers | [`0075-sort-colors`](./0075-sort-colors/) |
+| 0079 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | C++ | Arrays & Hashing | [`0079-word-search`](./0079-word-search/) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | C++ | Two Pointers | [`0083-remove-duplicates-from-sorted-list`](./0083-remove-duplicates-from-sorted-list/) |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | C++ | Sorting / Two Pointers | [`0088-merge-sorted-array`](./0088-merge-sorted-array/) |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`0090-subsets-ii`](./0090-subsets-ii/) |
