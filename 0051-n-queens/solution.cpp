@@ -1,25 +1,26 @@
 
-            i--;
-            j--;
         }
-                return false;
+        
+        i = row - 1;
+        j = col + 1;
 
+        while(i >= 0 && j < n)
         {
             if(help[i][j] == "Q")
-        int j = col - 1;
+                return false;
 
-        while(i >= 0 && j >= 0)
-       
-        int i = row - 1;
+            i--;
+            j++;
         }
 
-                return false;
-            if(help[i][col] == "Q")
-        for(int i = 0; i < row; i++)
-        {
-    {
-        
+        return true;
+    }
 
-    bool isvalid(vector<vector<string>>& help, int row, int col, int n)
-class Solution {
-public:
+
+    void solve(vector<vector<string>>& ans,
+               int n,
+               int k,
+               vector<string>& solution,
+               vector<vector<string>>& help)
+    {
+   
