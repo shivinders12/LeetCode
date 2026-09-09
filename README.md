@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-83-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-2.70%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-85-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-2.80%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **42** | 50.6% | `██████████░░░░░░░░░░` |
-| 🟡 **Medium** | **38** | 45.8% | `█████████░░░░░░░░░░░` |
-| 🔴 **Hard** | **3** | 3.6% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **83** | 100% | `████████████████████` |
+| 🟢 **Easy** | **42** | 49.4% | `██████████░░░░░░░░░░` |
+| 🟡 **Medium** | **39** | 45.9% | `█████████░░░░░░░░░░░` |
+| 🔴 **Hard** | **4** | 4.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **85** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,12 +32,12 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **2.70 questions / day** | `27 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **2.80 questions / day** | `28 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
-| 🎯 **Avg Difficulty Score** | **1.90 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **2.10 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
 | 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
-| 🔴 **Hard (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
+| 🔴 **Hard (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
 
 </div>
 
@@ -69,6 +69,7 @@
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | C++ | Two Pointers | [`0042-trapping-rain-water`](./0042-trapping-rain-water/) |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | C++ | Arrays & Hashing | [`0046-permutations`](./0046-permutations/) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | C++ | Arrays & Hashing | [`0050-powx-n`](./0050-powx-n/) |
+| 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | 🔴 Hard | C++ | Arrays & Hashing | [`0051-n-queens`](./0051-n-queens/) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | C++ | Dynamic Programming | [`0053-maximum-subarray`](./0053-maximum-subarray/) |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | C++ | Arrays & Hashing | [`0054-spiral-matrix`](./0054-spiral-matrix/) |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0061-rotate-list`](./0061-rotate-list/) |
@@ -126,6 +127,7 @@
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | C++ | Arrays & Hashing | [`3622-check-divisibility-by-digit-sum-and-product`](./3622-check-divisibility-by-digit-sum-and-product/) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | C++ | Arrays & Hashing | [`3718-smallest-missing-multiple-of-k`](./3718-smallest-missing-multiple-of-k/) |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢 Easy | C++ | Arrays & Hashing | [`3870-count-commas-in-range`](./3870-count-commas-in-range/) |
+| 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`3871-count-commas-in-range-ii`](./3871-count-commas-in-range-ii/) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3875-construct-uniform-parity-array-i`](./3875-construct-uniform-parity-array-i/) |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`3876-construct-uniform-parity-array-ii`](./3876-construct-uniform-parity-array-ii/) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3903-smallest-stable-index-i`](./3903-smallest-stable-index-i/) |
