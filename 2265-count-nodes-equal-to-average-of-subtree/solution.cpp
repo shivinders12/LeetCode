@@ -1,24 +1,24 @@
-        int leftSum = solve(ans, temp->left, leftCount);
-        }
-        
         int leftCount = 0, rightCount = 0;
+        int leftSum = solve(ans, temp->left, leftCount);
+        int rightSum = solve(ans, temp->right, rightCount);
+
         {   count=0;
             return 0;
+        }
+        
         if(temp==nullptr) 
     {
+
     int solve(int &ans,TreeNode* temp,int &count)
-
-    // }
-    //     return {sum, count};
-
-    //     if(temp->val == avg)
-    //         ans++;
-
-    //     int avg = sum / count;
-    //     int count = 1 + left.second + right.second;
-
-    //     int sum = temp->val + left.first + right.first;
-    //     pair<int, int> right = solve(ans, temp->right);
-
-    //     pair<int, int> left = solve(ans, temp->left);
-
+ */
+ * };
+ right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), 
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode *right;
+ *     TreeNode *left;
+ *     int val;
+ * struct TreeNode {
+ * Definition for a binary tree node.
+/**
