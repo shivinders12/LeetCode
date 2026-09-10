@@ -1,24 +1,24 @@
-
         int avg = sum / count;
 
         if(temp->val == avg)
             ans++;
-        int sum = temp->val + left.first + right.first;
-        int count = 1 + left.second + right.second;
 
+        return {sum, count};
+    }
 
-        pair<int, int> left = solve(ans, temp->left);
-        pair<int, int> right = solve(ans, temp->right);
-            return {0, 0};
+    int solve(int &ans,TreeNode* temp)
     {
-        if(temp == nullptr)
-     pair<int, int> solve(int &ans, TreeNode* temp)
+        if(temp==nullptr) return 0;
+        int x=3;
+        if(temp->left==nullptr) x--;
+        if(temp->right==nullptr) x--;
+        int rightsum=solve(ans,temp->right);
+        int leftsum=solve(ans,temp->left);
+        int sum = temp->val+ leftsum+rightsum;
 
- */
- * };
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), 
- right(right) {}
- *     TreeNode *right;
- *     TreeNode *left;
+    }
+
+        int avg=sum/x;
+        if(avg==temp->val) ans++;
+        return sum;
+
