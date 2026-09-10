@@ -1,13 +1,7 @@
 
-        int avg = sum / count;
-
         if(temp->val == avg)
             ans++;
 
-        pair<int, int> right = solve(ans, temp->right);
-
-        int sum = temp->val + left.first + right.first;
-        int count = 1 + left.second + right.second;
         return {sum, count};
     }
 
@@ -22,3 +16,4 @@ public:
         return ans;
     }
 
+};
