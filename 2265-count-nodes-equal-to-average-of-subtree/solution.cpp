@@ -1,24 +1,24 @@
-        if(temp==nullptr) return 0;
+
+    }
+
+
+        int leftSum = solve(ans, temp->left, leftCount);
+        int rightSum = solve(ans, temp->right, rightCount);
+
+        count = 1 + leftCount + rightCount;
+        int sum = temp->val + leftSum + rightSum;
+
+        int avg = sum / count;
+        if (avg == temp->val) ans++;
+
+        return sum;
+class Solution {
+public:
+   int averageOfSubtree(TreeNode* root)
     {
-    int solve(int &ans,TreeNode* temp)
+        int ans = 0;
 
-    // }
-    //     return {sum, count};
+        solve(ans, root);
 
-    //         ans++;
-    //     if(temp->val == avg)
-
-    //     int avg = sum / count;
-
-    //     pair<int, int> right = solve(ans, temp->right);
-
-    //     int sum = temp->val + left.first + right.first;
-    //     int count = 1 + left.second + right.second;
-    //         return {0, 0};
-
-    //     pair<int, int> left = solve(ans, temp->left);
-    //     if(temp == nullptr)
-    // {
-    //  pair<int, int> solve(int &ans, TreeNode* temp)
- */
-
+        return ans;
+    }
