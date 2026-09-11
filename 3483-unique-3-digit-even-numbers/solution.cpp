@@ -8,18 +8,18 @@
             if (used[i])
                 continue;
 
-        for (int i = 0; i < digits.size(); i++) {
-
-        }
-                check[value]=true;
-            return;
-            if (value % 2 == 0 && check[value]==false)
-                ans++;
-        if (count == 3) {
-
             solve(digits, used, ans,
                   value * 10 + digits[i],
+                  count + 1,check);
 
-    int count,vector<bool>& check) {
-    void solve(vector<int>& digits, vector<bool>& used, int& ans, int value, 
-public:
+            used[i] = false;
+        }
+    }
+
+        for (int i = 0; i < digits.size(); i++) {
+        }
+
+            return;
+                check[value]=true;
+                ans++;
+            if (value % 2 == 0 && check[value]==false)
