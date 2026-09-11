@@ -1,16 +1,3 @@
-class Solution {
-public:
-    void solve(vector<int>& digits, vector<bool>& used, int& ans, int value, 
-    int count,vector<bool>& check) {
-
-        if (count == 3) {
-
-            if (value % 2 == 0 && check[value]==false)
-                ans++;
-                check[value]=true;
-            return;
-        }
-
         for (int i = 0; i < digits.size(); i++) {
 
             if (used[i]) continue;
@@ -22,3 +9,13 @@ public:
     }
 
     int totalNumbers(vector<int>& digits) {
+
+        int ans = 0;
+        vector<bool> check(1000,false);
+        vector<bool> used(digits.size(), false);
+
+        solve(digits, used, ans, 0, 0,check);
+
+        return ans;
+    }
+};
