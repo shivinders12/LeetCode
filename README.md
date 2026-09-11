@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-87-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-2.60%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-88-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-2.50%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **43** | 49.4% | `██████████░░░░░░░░░░` |
-| 🟡 **Medium** | **40** | 46.0% | `█████████░░░░░░░░░░░` |
-| 🔴 **Hard** | **4** | 4.6% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **87** | 100% | `████████████████████` |
+| 🟢 **Easy** | **44** | 50.0% | `██████████░░░░░░░░░░` |
+| 🟡 **Medium** | **40** | 45.5% | `█████████░░░░░░░░░░░` |
+| 🔴 **Hard** | **4** | 4.5% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **88** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **2.60 questions / day** | `26 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **2.50 questions / day** | `25 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
-| 🎯 **Avg Difficulty Score** | **1.90 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.70 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -126,6 +126,7 @@
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡 Medium | C++ | Arrays & Hashing | [`2265-count-nodes-equal-to-average-of-subtree`](./2265-count-nodes-equal-to-average-of-subtree/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3069-distribute-elements-into-two-arrays-i`](./3069-distribute-elements-into-two-arrays-i/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`3471-find-the-largest-almost-missing-integer`](./3471-find-the-largest-almost-missing-integer/) |
+| 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | 🟢 Easy | C++ | Arrays & Hashing | [`3483-unique-3-digit-even-numbers`](./3483-unique-3-digit-even-numbers/) |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | C++ | Arrays & Hashing | [`3622-check-divisibility-by-digit-sum-and-product`](./3622-check-divisibility-by-digit-sum-and-product/) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | C++ | Arrays & Hashing | [`3718-smallest-missing-multiple-of-k`](./3718-smallest-missing-multiple-of-k/) |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢 Easy | C++ | Arrays & Hashing | [`3870-count-commas-in-range`](./3870-count-commas-in-range/) |
