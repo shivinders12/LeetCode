@@ -60,7 +60,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 451,"Sort Characters By Frequency",Medium,C++,https://leetcode.com/problems/sort-characters-by-frequency/,2026-08-21 11:51:06
 485,"Max Consecutive Ones",Easy,C++,https://leetcode.com/problems/max-consecutive-ones/,2026-08-16 03:41:45
 496,"Next Greater Element I",Easy,C++,https://leetcode.com/problems/next-greater-element-i/,2026-09-12 18:20:11
-503,"Next Greater Element II",Medium,C++,https://leetcode.com/problems/next-greater-element-ii/,2026-09-12 18:30:43
+503,"Next Greater Element II",Medium,C++,https://leetcode.com/problems/next-greater-element-ii/,2026-09-12 18:38:34
 509,"Fibonacci Number",Easy,C++,https://leetcode.com/problems/fibonacci-number/,2026-09-06 11:28:21
 704,"Binary Search",Easy,C++,https://leetcode.com/problems/binary-search/,2026-08-16 12:28:57
 796,"Rotate String",Easy,C++,https://leetcode.com/problems/rotate-string/,2026-08-17 12:07:00
