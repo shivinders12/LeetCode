@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-88-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-89-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-2.50%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **44** | 50.0% | `██████████░░░░░░░░░░` |
-| 🟡 **Medium** | **40** | 45.5% | `█████████░░░░░░░░░░░` |
-| 🔴 **Hard** | **4** | 4.5% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **88** | 100% | `████████████████████` |
+| 🟢 **Easy** | **44** | 49.4% | `██████████░░░░░░░░░░` |
+| 🟡 **Medium** | **40** | 44.9% | `█████████░░░░░░░░░░░` |
+| 🔴 **Hard** | **5** | 5.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **89** | 100% | `████████████████████` |
 
 </div>
 
@@ -34,10 +34,10 @@
 | :--- | :---: | :--- |
 | 📊 **10-Day Daily Average** | **2.50 questions / day** | `25 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
-| 🎯 **Avg Difficulty Score** | **1.70 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
-| 🔴 **Hard (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **2.00 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
+| 🔴 **Hard (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
 
 </div>
 
@@ -102,6 +102,7 @@
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | C++ | Prefix Sum | [`0238-product-of-array-except-self`](./0238-product-of-array-except-self/) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | C++ | Arrays & Hashing | [`0242-valid-anagram`](./0242-valid-anagram/) |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | C++ | Bit Manipulation | [`0268-missing-number`](./0268-missing-number/) |
+| 0282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | 🔴 Hard | C++ | Arrays & Hashing | [`0282-expression-add-operators`](./0282-expression-add-operators/) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | C++ | Two Pointers | [`0283-move-zeroes`](./0283-move-zeroes/) |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | C++ | Prefix Sum | [`0303-range-sum-query-immutable`](./0303-range-sum-query-immutable/) |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0328-odd-even-linked-list`](./0328-odd-even-linked-list/) |
