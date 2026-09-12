@@ -1,6 +1,3 @@
-class Solution {
-public:
-    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
 
         unordered_map<int, int> mp;
         stack<int> st;
@@ -23,3 +20,7 @@ public:
         }
 
     
+        vector<int> ans;
+
+        for (int x : nums1) {
+            ans.push_back(mp[x]);
