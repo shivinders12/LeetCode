@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-93-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-2.20%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-94-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **47** | 50.5% | `██████████░░░░░░░░░░` |
-| 🟡 **Medium** | **41** | 44.1% | `█████████░░░░░░░░░░░` |
-| 🔴 **Hard** | **5** | 5.4% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **93** | 100% | `████████████████████` |
+| 🟢 **Easy** | **47** | 50.0% | `██████████░░░░░░░░░░` |
+| 🟡 **Medium** | **42** | 44.7% | `█████████░░░░░░░░░░░` |
+| 🔴 **Hard** | **5** | 5.3% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **94** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **2.20 questions / day** | `22 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **1.90 questions / day** | `19 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
-| 🎯 **Avg Difficulty Score** | **1.50 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -107,6 +107,7 @@
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | C++ | Two Pointers | [`0283-move-zeroes`](./0283-move-zeroes/) |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | C++ | Prefix Sum | [`0303-range-sum-query-immutable`](./0303-range-sum-query-immutable/) |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0328-odd-even-linked-list`](./0328-odd-even-linked-list/) |
+| 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | C++ | Arrays & Hashing | [`0402-remove-k-digits`](./0402-remove-k-digits/) |
 | 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | C++ | Arrays & Hashing | [`0451-sort-characters-by-frequency`](./0451-sort-characters-by-frequency/) |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | C++ | Arrays & Hashing | [`0485-max-consecutive-ones`](./0485-max-consecutive-ones/) |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`0496-next-greater-element-i`](./0496-next-greater-element-i/) |
