@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-95-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-96-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-1.50%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **47** | 49.5% | `██████████░░░░░░░░░░` |
-| 🟡 **Medium** | **43** | 45.3% | `█████████░░░░░░░░░░░` |
-| 🔴 **Hard** | **5** | 5.3% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **95** | 100% | `████████████████████` |
+| 🟢 **Easy** | **47** | 49.0% | `██████████░░░░░░░░░░` |
+| 🟡 **Medium** | **44** | 45.8% | `█████████░░░░░░░░░░░` |
+| 🔴 **Hard** | **5** | 5.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **96** | 100% | `████████████████████` |
 
 </div>
 
@@ -128,6 +128,7 @@
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | 🟡 Medium | C++ | Arrays & Hashing | [`1922-count-good-numbers`](./1922-count-good-numbers/) |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | 🟡 Medium | C++ | Arrays & Hashing | [`2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points`](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`2095-delete-the-middle-node-of-a-linked-list`](./2095-delete-the-middle-node-of-a-linked-list/) |
+| 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | 🟡 Medium | C++ | Dynamic Programming | [`2104-sum-of-subarray-ranges`](./2104-sum-of-subarray-ranges/) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | C++ | Two Pointers | [`2149-rearrange-array-elements-by-sign`](./2149-rearrange-array-elements-by-sign/) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 Easy | C++ | Arrays & Hashing | [`2235-add-two-integers`](./2235-add-two-integers/) |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡 Medium | C++ | Arrays & Hashing | [`2265-count-nodes-equal-to-average-of-subtree`](./2265-count-nodes-equal-to-average-of-subtree/) |
