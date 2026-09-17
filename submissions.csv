@@ -79,6 +79,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 1922,"Count Good Numbers",Medium,C++,https://leetcode.com/problems/count-good-numbers/,2026-09-03 19:41:17
 2058,"Find the Minimum and Maximum Number of Nodes Between Critical Points",Medium,C++,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/,2026-08-31 14:58:06
 2095,"Delete the Middle Node of a Linked List",Medium,C++,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/,2026-08-25 10:43:33
+2104,"Sum of Subarray Ranges",Medium,C++,https://leetcode.com/problems/sum-of-subarray-ranges/,2026-09-17 09:50:10
 2149,"Rearrange Array Elements by Sign",Medium,C++,https://leetcode.com/problems/rearrange-array-elements-by-sign/,2026-08-16 03:36:30
 2235,"Add Two Integers",Easy,C++,https://leetcode.com/problems/add-two-integers/,2026-08-28 21:15:38
 2265,"Count Nodes Equal to Average of Subtree",Medium,C++,https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/,2026-09-10 20:30:57
