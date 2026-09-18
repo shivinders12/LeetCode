@@ -33,7 +33,7 @@
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
 | 📊 **10-Day Daily Average** | **1.40 questions / day** | `14 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
+| 🔥 **Active Days (Last 10)** | **9 / 10 days** (90%) | `██████████████████░░` |
 | 🎯 **Avg Difficulty Score** | **1.80 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
 | 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
