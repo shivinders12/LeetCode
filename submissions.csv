@@ -73,7 +73,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 940,"Distinct Subsequences II",Hard,C++,https://leetcode.com/problems/distinct-subsequences-ii/,2026-09-07 13:39:13
 977,"Squares of a Sorted Array",Easy,C++,https://leetcode.com/problems/squares-of-a-sorted-array/,2026-08-16 03:40:45
 1021,"Remove Outermost Parentheses",Easy,C++,https://leetcode.com/problems/remove-outermost-parentheses/,2026-08-21 11:39:20
-1401,"Circle and Rectangle Overlapping",Medium,C++,https://leetcode.com/problems/circle-and-rectangle-overlapping/,2026-09-19 10:20:05
+1401,"Circle and Rectangle Overlapping",Medium,C++,https://leetcode.com/problems/circle-and-rectangle-overlapping/,2026-09-19 10:21:30
 1614,"Maximum Nesting Depth of the Parentheses",Easy,C++,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/,2026-08-22 15:14:32
 1752,"Check if Array Is Sorted and Rotated",Easy,C++,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,2026-08-16 03:39:45
 1781,"Sum of Beauty of All Substrings",Medium,C++,https://leetcode.com/problems/sum-of-beauty-of-all-substrings/,2026-08-22 10:34:39
