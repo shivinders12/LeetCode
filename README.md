@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Total%20Solved-97-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.40%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.20%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -32,7 +32,7 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.40 questions / day** | `14 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **1.20 questions / day** | `12 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **9 / 10 days** (90%) | `██████████████████░░` |
 | 🎯 **Avg Difficulty Score** | **1.80 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
