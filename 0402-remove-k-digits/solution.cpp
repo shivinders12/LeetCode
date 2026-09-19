@@ -1,5 +1,14 @@
-class Solution {
-public:
+            st.push_back(digit);
+        }
+
+      
+        while (k > 0) {
+            st.pop_back();
+            k--;
+        }
+
+       
+
     string removeKdigits(string num, int k) {
 
         string st;
@@ -12,14 +21,5 @@ public:
                 st.pop_back();
                 k--;
             }
-
-            st.push_back(digit);
-        }
-
-      
-        while (k > 0) {
-            st.pop_back();
-            k--;
-        }
-
-       
+class Solution {
+public:
