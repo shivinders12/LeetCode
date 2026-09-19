@@ -1,21 +1,26 @@
-        
-        else {
+        }
 
-         
-            if (yCenter >= y2) {
-                return yCenter - y2 <= radius;
+            else {
+                return xCenter - x2 <= radius;
+            }
+            }
+
+                int dy = y1 - yCenter;
+
+                return dx * dx + dy * dy <= radius * radius;
+                return dx * dx + dy * dy <= radius * radius;
             }
 
             else if (yCenter <= y1) {
-                return y1 - yCenter <= radius;
-            }
+                int dx = xCenter - x2;
+                int dx = xCenter - x2;
+                int dy = yCenter - y2;
 
-           
-            else {
-                return true;
-            }
+            if (yCenter >= y2) {
+
+        else if (xCenter >= x2) {
+  
+
         }
-
-        return false;
-    }
-};
+            }
+                return x1 - xCenter <= radius;
