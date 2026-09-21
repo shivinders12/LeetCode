@@ -1,7 +1,3 @@
-    
-    int next(int price) {
-        
-        vt.push_back(price);
         int x=vt.size();
         int maxcount=0;
         int count=0;
@@ -14,12 +10,16 @@
                 count++;
                 maxcount=max(maxcount,count); 
             }
-            else{break;}
-        } 
-  
-        return maxcount;
+        vt.push_back(price);
+    int next(int price) {
+        
+    
+        
     }
-};
+       
 
-/**
- * Your StockSpanner object will be instantiated and called as such:
+    StockSpanner() {
+        stack<int> st;
+        vector<int> vt;
+class StockSpanner {
+public:
