@@ -23,6 +23,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 51,"N-Queens",Hard,C++,https://leetcode.com/problems/n-queens/,2026-09-08 13:28:01
 53,"Maximum Subarray",Medium,C++,https://leetcode.com/problems/maximum-subarray/,2026-08-16 03:42:00
 54,"Spiral Matrix",Medium,C++,https://leetcode.com/problems/spiral-matrix/,2026-08-23 00:01:15
+58,"Length of Last Word",Easy,C++,https://leetcode.com/problems/length-of-last-word/,2026-09-22 09:33:16
 61,"Rotate List",Medium,C++,https://leetcode.com/problems/rotate-list/,2026-08-31 14:42:30
 75,"Sort Colors",Medium,C++,https://leetcode.com/problems/sort-colors/,2026-08-16 03:41:08
 78,"Subsets",Medium,C++,https://leetcode.com/problems/subsets/,2026-09-06 11:01:52
