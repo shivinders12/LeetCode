@@ -79,6 +79,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 1614,"Maximum Nesting Depth of the Parentheses",Easy,C++,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/,2026-08-22 15:14:32
 1752,"Check if Array Is Sorted and Rotated",Easy,C++,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,2026-08-16 03:39:45
 1781,"Sum of Beauty of All Substrings",Medium,C++,https://leetcode.com/problems/sum-of-beauty-of-all-substrings/,2026-08-22 10:34:39
+1807,"Evaluate the Bracket Pairs of a String",Medium,C++,https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/,2026-09-26 09:44:45
 1903,"Largest Odd Number in String",Easy,C++,https://leetcode.com/problems/largest-odd-number-in-string/,2026-08-22 15:52:15
 1922,"Count Good Numbers",Medium,C++,https://leetcode.com/problems/count-good-numbers/,2026-09-03 19:41:17
 2058,"Find the Minimum and Maximum Number of Nodes Between Critical Points",Medium,C++,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/,2026-08-31 14:58:06
