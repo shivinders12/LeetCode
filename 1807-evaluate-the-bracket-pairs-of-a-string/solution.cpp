@@ -1,5 +1,5 @@
 
-                
+    
                 while (st.back() != '(') {
                     key.push_back(st.back());
                     st.pop_back();
@@ -14,12 +14,13 @@
         }
 
         string st;
-public:
-    string evaluate(string s, vector<vector<string>>& knowledge) {
-
-        unordered_map<string, string> mp;
-
         
         for (auto &x : knowledge) {
             mp[x[0]] = x[1];
-class Solution {
+                }
+
+          
+                st.pop_back();
+
+             
+                reverse(key.begin(), key.end());
