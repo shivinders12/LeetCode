@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-102-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-103-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-1.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **50** | 49.0% | `██████████░░░░░░░░░░` |
-| 🟡 **Medium** | **47** | 46.1% | `█████████░░░░░░░░░░░` |
+| 🟢 **Easy** | **50** | 48.5% | `██████████░░░░░░░░░░` |
+| 🟡 **Medium** | **48** | 46.6% | `█████████░░░░░░░░░░░` |
 | 🔴 **Hard** | **5** | 4.9% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **102** | 100% | `████████████████████` |
+| 🏆 **Total** | **103** | 100% | `████████████████████` |
 
 </div>
 
@@ -34,9 +34,9 @@
 | :--- | :---: | :--- |
 | 📊 **10-Day Daily Average** | **1.00 questions / day** | `10 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.70 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **7** (70.0%) | `██████████████░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -128,6 +128,7 @@
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`1614-maximum-nesting-depth-of-the-parentheses`](./1614-maximum-nesting-depth-of-the-parentheses/) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | C++ | Arrays & Hashing | [`1752-check-if-array-is-sorted-and-rotated`](./1752-check-if-array-is-sorted-and-rotated/) |
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | 🟡 Medium | C++ | Arrays & Hashing | [`1781-sum-of-beauty-of-all-substrings`](./1781-sum-of-beauty-of-all-substrings/) |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | C++ | Arrays & Hashing | [`1807-evaluate-the-bracket-pairs-of-a-string`](./1807-evaluate-the-bracket-pairs-of-a-string/) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | 🟢 Easy | C++ | Arrays & Hashing | [`1903-largest-odd-number-in-string`](./1903-largest-odd-number-in-string/) |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | 🟡 Medium | C++ | Arrays & Hashing | [`1922-count-good-numbers`](./1922-count-good-numbers/) |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | 🟡 Medium | C++ | Arrays & Hashing | [`2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points`](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) |
