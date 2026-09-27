@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-103-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-104-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-1.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **50** | 48.5% | `██████████░░░░░░░░░░` |
-| 🟡 **Medium** | **48** | 46.6% | `█████████░░░░░░░░░░░` |
-| 🔴 **Hard** | **5** | 4.9% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **103** | 100% | `████████████████████` |
+| 🟢 **Easy** | **50** | 48.1% | `██████████░░░░░░░░░░` |
+| 🟡 **Medium** | **49** | 47.1% | `█████████░░░░░░░░░░░` |
+| 🔴 **Hard** | **5** | 4.8% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **104** | 100% | `████████████████████` |
 
 </div>
 
@@ -124,6 +124,7 @@
 | 0940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴 Hard | C++ | Arrays & Hashing | [`0940-distinct-subsequences-ii`](./0940-distinct-subsequences-ii/) |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | C++ | Two Pointers | [`0977-squares-of-a-sorted-array`](./0977-squares-of-a-sorted-array/) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`1021-remove-outermost-parentheses`](./1021-remove-outermost-parentheses/) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | C++ | Arrays & Hashing | [`1190-reverse-substrings-between-each-pair-of-parentheses`](./1190-reverse-substrings-between-each-pair-of-parentheses/) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | C++ | Arrays & Hashing | [`1401-circle-and-rectangle-overlapping`](./1401-circle-and-rectangle-overlapping/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`1614-maximum-nesting-depth-of-the-parentheses`](./1614-maximum-nesting-depth-of-the-parentheses/) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | C++ | Arrays & Hashing | [`1752-check-if-array-is-sorted-and-rotated`](./1752-check-if-array-is-sorted-and-rotated/) |
