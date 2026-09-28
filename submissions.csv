@@ -77,7 +77,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 1021,"Remove Outermost Parentheses",Easy,C++,https://leetcode.com/problems/remove-outermost-parentheses/,2026-08-21 11:39:20
 1190,"Reverse Substrings Between Each Pair of Parentheses",Medium,C++,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/,2026-09-27 09:51:03
 1401,"Circle and Rectangle Overlapping",Medium,C++,https://leetcode.com/problems/circle-and-rectangle-overlapping/,2026-09-19 10:23:41
-1614,"Maximum Nesting Depth of the Parentheses",Easy,C++,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/,2026-08-22 15:14:32
+1614,"Maximum Nesting Depth of the Parentheses",Easy,C++,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/,2026-09-28 08:36:04
 1752,"Check if Array Is Sorted and Rotated",Easy,C++,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,2026-08-16 03:39:45
 1781,"Sum of Beauty of All Substrings",Medium,C++,https://leetcode.com/problems/sum-of-beauty-of-all-substrings/,2026-08-22 10:34:39
 1807,"Evaluate the Bracket Pairs of a String",Medium,C++,https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/,2026-09-26 09:46:55
