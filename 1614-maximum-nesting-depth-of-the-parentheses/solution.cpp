@@ -1,21 +1,23 @@
+class Solution {
+public:
+    int maxDepth(string s) {
+
+        int maxi=0;
+        int count =0;
+        
+        for(int i=0;i<s.length();i++)
         {
             if(s[i]=='(')
             {
                 count++;
-                if(count>max) {
-                    max=count;
-                }
+                maxi=max(count,maxi);
             }
             else if(s[i]==')')
             {
                 count --;
             }
         }
+        return maxi;
         
-        for(int i=0;i<s.length();i++)
-        int count =0;
-        int max=0;
-
-    int maxDepth(string s) {
-public:
-class Solution {
+    }
+};
