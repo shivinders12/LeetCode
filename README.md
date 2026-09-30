@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-104-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-105-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-0.80%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **50** | 48.1% | `██████████░░░░░░░░░░` |
-| 🟡 **Medium** | **49** | 47.1% | `█████████░░░░░░░░░░░` |
+| 🟢 **Easy** | **50** | 47.6% | `██████████░░░░░░░░░░` |
+| 🟡 **Medium** | **50** | 47.6% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **5** | 4.8% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **104** | 100% | `████████████████████` |
+| 🏆 **Total** | **105** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.00 questions / day** | `10 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.50 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
+| 📊 **10-Day Daily Average** | **0.80 questions / day** | `8 questions solved in last 10 days` |
+| 🔥 **Active Days (Last 10)** | **7 / 10 days** (70%) | `██████████████░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -124,6 +124,7 @@
 | 0940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴 Hard | C++ | Arrays & Hashing | [`0940-distinct-subsequences-ii`](./0940-distinct-subsequences-ii/) |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | C++ | Two Pointers | [`0977-squares-of-a-sorted-array`](./0977-squares-of-a-sorted-array/) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`1021-remove-outermost-parentheses`](./1021-remove-outermost-parentheses/) |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | C++ | Arrays & Hashing | [`1111-maximum-nesting-depth-of-two-valid-parentheses-strings`](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | C++ | Arrays & Hashing | [`1190-reverse-substrings-between-each-pair-of-parentheses`](./1190-reverse-substrings-between-each-pair-of-parentheses/) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | C++ | Arrays & Hashing | [`1401-circle-and-rectangle-overlapping`](./1401-circle-and-rectangle-overlapping/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`1614-maximum-nesting-depth-of-the-parentheses`](./1614-maximum-nesting-depth-of-the-parentheses/) |
