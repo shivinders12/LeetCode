@@ -69,6 +69,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 735,"Asteroid Collision",Medium,C++,https://leetcode.com/problems/asteroid-collision/,2026-09-18 11:09:26
 796,"Rotate String",Easy,C++,https://leetcode.com/problems/rotate-string/,2026-08-17 12:07:00
 836,"Rectangle Overlap",Easy,C++,https://leetcode.com/problems/rectangle-overlap/,2026-09-14 19:24:59
+856,"Score of Parentheses",Medium,C++,https://leetcode.com/problems/score-of-parentheses/,2026-10-05 10:38:00
 876,"Middle of the Linked List",Easy,C++,https://leetcode.com/problems/middle-of-the-linked-list/,2026-08-25 12:27:46
 901,"Online Stock Span",Medium,C++,https://leetcode.com/problems/online-stock-span/,2026-09-21 15:19:07
 907,"Sum of Subarray Minimums",Medium,C++,https://leetcode.com/problems/sum-of-subarray-minimums/,2026-09-16 18:13:42
