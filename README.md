@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-106-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-107-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-0.80%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **50** | 47.2% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **51** | 48.1% | `██████████░░░░░░░░░░` |
+| 🟢 **Easy** | **50** | 46.7% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **52** | 48.6% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **5** | 4.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **106** | 100% | `████████████████████` |
+| 🏆 **Total** | **107** | 100% | `████████████████████` |
 
 </div>
 
@@ -34,9 +34,9 @@
 | :--- | :---: | :--- |
 | 📊 **10-Day Daily Average** | **0.80 questions / day** | `8 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **7 / 10 days** (70%) | `██████████████░░░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.70 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **7** (70.0%) | `██████████████░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -122,6 +122,7 @@
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | C++ | Arrays & Hashing | [`0876-middle-of-the-linked-list`](./0876-middle-of-the-linked-list/) |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | 🟡 Medium | C++ | Dynamic Programming | [`0901-online-stock-span`](./0901-online-stock-span/) |
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | C++ | Dynamic Programming | [`0907-sum-of-subarray-minimums`](./0907-sum-of-subarray-minimums/) |
+| 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium | C++ | Arrays & Hashing | [`0921-minimum-add-to-make-parentheses-valid`](./0921-minimum-add-to-make-parentheses-valid/) |
 | 0940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴 Hard | C++ | Arrays & Hashing | [`0940-distinct-subsequences-ii`](./0940-distinct-subsequences-ii/) |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | C++ | Two Pointers | [`0977-squares-of-a-sorted-array`](./0977-squares-of-a-sorted-array/) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`1021-remove-outermost-parentheses`](./1021-remove-outermost-parentheses/) |
