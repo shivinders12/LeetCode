@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-107-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-108-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-0.80%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **50** | 46.7% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **52** | 48.6% | `██████████░░░░░░░░░░` |
-| 🔴 **Hard** | **5** | 4.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **107** | 100% | `████████████████████` |
+| 🟢 **Easy** | **51** | 47.2% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **52** | 48.1% | `██████████░░░░░░░░░░` |
+| 🔴 **Hard** | **5** | 4.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **108** | 100% | `████████████████████` |
 
 </div>
 
@@ -34,9 +34,9 @@
 | :--- | :---: | :--- |
 | 📊 **10-Day Daily Average** | **0.80 questions / day** | `8 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **7 / 10 days** (70%) | `██████████████░░░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.70 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **7** (70.0%) | `██████████████░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -110,6 +110,7 @@
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0328-odd-even-linked-list`](./0328-odd-even-linked-list/) |
 | 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | C++ | Arrays & Hashing | [`0402-remove-k-digits`](./0402-remove-k-digits/) |
 | 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | C++ | Arrays & Hashing | [`0451-sort-characters-by-frequency`](./0451-sort-characters-by-frequency/) |
+| 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | 🟢 Easy | C++ | Arrays & Hashing | [`0455-assign-cookies`](./0455-assign-cookies/) |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | C++ | Arrays & Hashing | [`0485-max-consecutive-ones`](./0485-max-consecutive-ones/) |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`0496-next-greater-element-i`](./0496-next-greater-element-i/) |
 | 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`0503-next-greater-element-ii`](./0503-next-greater-element-ii/) |
