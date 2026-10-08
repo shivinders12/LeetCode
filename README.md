@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-109-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-0.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-110-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.10%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **52** | 47.7% | `██████████░░░░░░░░░░` |
-| 🟡 **Medium** | **52** | 47.7% | `██████████░░░░░░░░░░` |
-| 🔴 **Hard** | **5** | 4.6% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **109** | 100% | `████████████████████` |
+| 🟢 **Easy** | **52** | 47.3% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **53** | 48.2% | `██████████░░░░░░░░░░` |
+| 🔴 **Hard** | **5** | 4.5% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **110** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,8 +32,8 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **0.90 questions / day** | `9 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **7 / 10 days** (70%) | `██████████████░░░░░░` |
+| 📊 **10-Day Daily Average** | **1.10 questions / day** | `11 questions solved in last 10 days` |
+| 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
 | 🎯 **Avg Difficulty Score** | **1.50 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
 | 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
@@ -72,6 +72,7 @@
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | 🔴 Hard | C++ | Arrays & Hashing | [`0051-n-queens`](./0051-n-queens/) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | C++ | Dynamic Programming | [`0053-maximum-subarray`](./0053-maximum-subarray/) |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | C++ | Arrays & Hashing | [`0054-spiral-matrix`](./0054-spiral-matrix/) |
+| 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | C++ | Arrays & Hashing | [`0055-jump-game`](./0055-jump-game/) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | C++ | Arrays & Hashing | [`0058-length-of-last-word`](./0058-length-of-last-word/) |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0061-rotate-list`](./0061-rotate-list/) |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | C++ | Sorting / Two Pointers | [`0075-sort-colors`](./0075-sort-colors/) |
