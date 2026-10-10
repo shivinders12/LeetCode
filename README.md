@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-114-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.30%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-115-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.40%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **52** | 45.6% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **57** | 50.0% | `██████████░░░░░░░░░░` |
-| 🔴 **Hard** | **5** | 4.4% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **114** | 100% | `████████████████████` |
+| 🟢 **Easy** | **52** | 45.2% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **58** | 50.4% | `██████████░░░░░░░░░░` |
+| 🔴 **Hard** | **5** | 4.3% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **115** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,7 +32,7 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.30 questions / day** | `13 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **1.40 questions / day** | `14 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
 | 🎯 **Avg Difficulty Score** | **1.70 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
@@ -73,6 +73,7 @@
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | C++ | Dynamic Programming | [`0053-maximum-subarray`](./0053-maximum-subarray/) |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | C++ | Arrays & Hashing | [`0054-spiral-matrix`](./0054-spiral-matrix/) |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | C++ | Arrays & Hashing | [`0055-jump-game`](./0055-jump-game/) |
+| 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | C++ | Arrays & Hashing | [`0056-merge-intervals`](./0056-merge-intervals/) |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | 🟡 Medium | C++ | Arrays & Hashing | [`0057-insert-interval`](./0057-insert-interval/) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | C++ | Arrays & Hashing | [`0058-length-of-last-word`](./0058-length-of-last-word/) |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0061-rotate-list`](./0061-rotate-list/) |
