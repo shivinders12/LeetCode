@@ -98,6 +98,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 2149,"Rearrange Array Elements by Sign",Medium,C++,https://leetcode.com/problems/rearrange-array-elements-by-sign/,2026-08-16 03:36:30
 2235,"Add Two Integers",Easy,C++,https://leetcode.com/problems/add-two-integers/,2026-08-28 21:15:38
 2265,"Count Nodes Equal to Average of Subtree",Medium,C++,https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/,2026-09-10 20:30:57
+2333,"Minimum Sum of Squared Difference",Medium,C++,https://leetcode.com/problems/minimum-sum-of-squared-difference/,2026-10-10 13:48:45
 3069,"Distribute Elements Into Two Arrays I",Easy,C++,https://leetcode.com/problems/distribute-elements-into-two-arrays-i/,2026-08-20 10:12:48
 3471,"Find the Largest Almost Missing Integer",Easy,C++,https://leetcode.com/problems/find-the-largest-almost-missing-integer/,2026-08-18 12:12:57
 3483,"Unique 3-Digit Even Numbers",Easy,C++,https://leetcode.com/problems/unique-3-digit-even-numbers/,2026-09-11 11:46:12
