@@ -24,6 +24,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 53,"Maximum Subarray",Medium,C++,https://leetcode.com/problems/maximum-subarray/,2026-08-16 03:42:00
 54,"Spiral Matrix",Medium,C++,https://leetcode.com/problems/spiral-matrix/,2026-08-23 00:01:15
 55,"Jump Game",Medium,C++,https://leetcode.com/problems/jump-game/,2026-10-07 15:30:44
+56,"Merge Intervals",Medium,C++,https://leetcode.com/problems/merge-intervals/,2026-10-10 21:38:40
 57,"Insert Interval",Medium,C++,https://leetcode.com/problems/insert-interval/,2026-10-09 18:02:17
 58,"Length of Last Word",Easy,C++,https://leetcode.com/problems/length-of-last-word/,2026-09-22 09:33:16
 61,"Rotate List",Medium,C++,https://leetcode.com/problems/rotate-list/,2026-08-31 14:42:30
