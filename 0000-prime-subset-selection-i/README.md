@@ -1,7 +1,7 @@
-# Three Fibonacci Sum
+# Q2. Prime Subset Selection I
 
-**Difficulty**: Easy
+**Difficulty**: Medium
 
-**Language**: Unknown
+**Language**: C++
 
-**LeetCode Link**: [Three Fibonacci Sum](https://leetcode.com/problems/prime-subset-selection-i/)
+**LeetCode Link**: [Q2. Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/)
