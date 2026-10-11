@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-116-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.70%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-117-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.80%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **51** | 44.0% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **60** | 51.7% | `██████████░░░░░░░░░░` |
+| 🟢 **Easy** | **51** | 43.6% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **61** | 52.1% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **5** | 4.3% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **116** | 100% | `████████████████████` |
+| 🏆 **Total** | **117** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,7 +32,7 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.70 questions / day** | `17 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **1.80 questions / day** | `18 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
 | 🎯 **Avg Difficulty Score** | **1.90 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
@@ -119,6 +119,7 @@
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`0496-next-greater-element-i`](./0496-next-greater-element-i/) |
 | 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`0503-next-greater-element-ii`](./0503-next-greater-element-ii/) |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | C++ | Arrays & Hashing | [`0509-fibonacci-number`](./0509-fibonacci-number/) |
+| 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | C++ | Arrays & Hashing | [`0678-valid-parenthesis-string`](./0678-valid-parenthesis-string/) |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | C++ | Binary Search | [`0704-binary-search`](./0704-binary-search/) |
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | C++ | Arrays & Hashing | [`0735-asteroid-collision`](./0735-asteroid-collision/) |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | C++ | Arrays & Hashing | [`0796-rotate-string`](./0796-rotate-string/) |
