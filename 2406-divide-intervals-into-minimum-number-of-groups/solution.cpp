@@ -14,10 +14,11 @@
             } else {
         }
             ed.push_back(intervals[i][1]);
-        for (int i = 0; i < intervals.size(); i++) {
             st.push_back(intervals[i][0]);
-        vector<int> st, ed;
+                groups++;
+                ans = max(ans, groups);
+                i++;
+            }
+        }
 
-public:
-    int minGroups(vector<vector<int>>& intervals) {
-class Solution {
+        return ans;
