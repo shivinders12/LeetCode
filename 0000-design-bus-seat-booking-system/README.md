@@ -1,7 +1,7 @@
-# Prime Subset Selection I
+# Q3. Design Bus Seat Booking System
 
-**Difficulty**: Easy
+**Difficulty**: Medium
 
-**Language**: Unknown
+**Language**: C++
 
-**LeetCode Link**: [Prime Subset Selection I](https://leetcode.com/problems/design-bus-seat-booking-system/)
+**LeetCode Link**: [Q3. Design Bus Seat Booking System](https://leetcode.com/problems/design-bus-seat-booking-system/)
