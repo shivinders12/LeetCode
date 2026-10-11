@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Total%20Solved-115-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.40%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.50%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,8 +17,8 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **52** | 45.2% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **58** | 50.4% | `██████████░░░░░░░░░░` |
+| 🟢 **Easy** | **51** | 44.3% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **59** | 51.3% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **5** | 4.3% | `█░░░░░░░░░░░░░░░░░░░` |
 | 🏆 **Total** | **115** | 100% | `████████████████████` |
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.40 questions / day** | `14 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **1.50 questions / day** | `15 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.80 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **8** (80.0%) | `████████████████░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -47,7 +47,7 @@
 
 | # | Problem Title | Difficulty | Language | Category | Solution Folder |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 0000 | [Q1. Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 Easy | C++ | Arrays & Hashing | [`0000-three-fibonacci-sum`](./0000-three-fibonacci-sum/) |
+| 0000 | [Q2. Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | 🟡 Medium | C++ | Arrays & Hashing | [`0000-prime-subset-selection-i`](./0000-prime-subset-selection-i/) |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | C++ | Hash Table | [`0001-two-sum`](./0001-two-sum/) |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | C++ | Arrays & Hashing | [`0002-add-two-numbers`](./0002-add-two-numbers/) |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | C++ | Arrays & Hashing | [`0005-longest-palindromic-substring`](./0005-longest-palindromic-substring/) |
