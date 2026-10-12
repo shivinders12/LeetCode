@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-117-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.80%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-118-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **51** | 43.6% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **61** | 52.1% | `██████████░░░░░░░░░░` |
-| 🔴 **Hard** | **5** | 4.3% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **117** | 100% | `████████████████████` |
+| 🟢 **Easy** | **51** | 43.2% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **62** | 52.5% | `███████████░░░░░░░░░` |
+| 🔴 **Hard** | **5** | 4.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **118** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,8 +32,8 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.80 questions / day** | `18 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
+| 📊 **10-Day Daily Average** | **1.90 questions / day** | `19 questions solved in last 10 days` |
+| 🔥 **Active Days (Last 10)** | **9 / 10 days** (90%) | `██████████████████░░` |
 | 🎯 **Avg Difficulty Score** | **1.90 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
 | 🟡 **Medium (Recent)** | **9** (90.0%) | `██████████████████░░` |
@@ -114,6 +114,7 @@
 | 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | C++ | Arrays & Hashing | [`0402-remove-k-digits`](./0402-remove-k-digits/) |
 | 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | C++ | Arrays & Hashing | [`0435-non-overlapping-intervals`](./0435-non-overlapping-intervals/) |
 | 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | C++ | Arrays & Hashing | [`0451-sort-characters-by-frequency`](./0451-sort-characters-by-frequency/) |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 🟡 Medium | C++ | Arrays & Hashing | [`0452-minimum-number-of-arrows-to-burst-balloons`](./0452-minimum-number-of-arrows-to-burst-balloons/) |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | 🟢 Easy | C++ | Arrays & Hashing | [`0455-assign-cookies`](./0455-assign-cookies/) |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | C++ | Arrays & Hashing | [`0485-max-consecutive-ones`](./0485-max-consecutive-ones/) |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`0496-next-greater-element-i`](./0496-next-greater-element-i/) |
