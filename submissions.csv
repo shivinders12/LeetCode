@@ -65,6 +65,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 402,"Remove K Digits",Medium,C++,https://leetcode.com/problems/remove-k-digits/,2026-09-19 09:51:34
 435,"Non-overlapping Intervals",Medium,C++,https://leetcode.com/problems/non-overlapping-intervals/,2026-10-08 16:33:50
 451,"Sort Characters By Frequency",Medium,C++,https://leetcode.com/problems/sort-characters-by-frequency/,2026-08-21 11:51:06
+452,"Minimum Number of Arrows to Burst Balloons",Medium,C++,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,2026-10-12 08:20:58
 455,"Assign Cookies",Easy,C++,https://leetcode.com/problems/assign-cookies/,2026-10-07 08:31:22
 485,"Max Consecutive Ones",Easy,C++,https://leetcode.com/problems/max-consecutive-ones/,2026-08-16 03:41:45
 496,"Next Greater Element I",Easy,C++,https://leetcode.com/problems/next-greater-element-i/,2026-09-12 18:20:11
