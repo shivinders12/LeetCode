@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-118-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-119-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-2.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **51** | 43.2% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **62** | 52.5% | `███████████░░░░░░░░░` |
+| 🟢 **Easy** | **51** | 42.9% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **63** | 52.9% | `███████████░░░░░░░░░` |
 | 🔴 **Hard** | **5** | 4.2% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **118** | 100% | `████████████████████` |
+| 🏆 **Total** | **119** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,8 +32,8 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.90 questions / day** | `19 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **9 / 10 days** (90%) | `██████████████████░░` |
+| 📊 **10-Day Daily Average** | **2.00 questions / day** | `20 questions solved in last 10 days` |
+| 🔥 **Active Days (Last 10)** | **10 / 10 days** (100%) | `████████████████████` |
 | 🎯 **Avg Difficulty Score** | **1.90 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
 | 🟡 **Medium (Recent)** | **9** (90.0%) | `██████████████████░░` |
@@ -159,6 +159,7 @@
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢 Easy | C++ | Arrays & Hashing | [`3550-smallest-index-with-digit-sum-equal-to-index`](./3550-smallest-index-with-digit-sum-equal-to-index/) |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | C++ | Arrays & Hashing | [`3622-check-divisibility-by-digit-sum-and-product`](./3622-check-divisibility-by-digit-sum-and-product/) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | C++ | Arrays & Hashing | [`3718-smallest-missing-multiple-of-k`](./3718-smallest-missing-multiple-of-k/) |
+| 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | C++ | Arrays & Hashing | [`3727-maximum-alternating-sum-of-squares`](./3727-maximum-alternating-sum-of-squares/) |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢 Easy | C++ | Arrays & Hashing | [`3870-count-commas-in-range`](./3870-count-commas-in-range/) |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`3871-count-commas-in-range-ii`](./3871-count-commas-in-range-ii/) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3875-construct-uniform-parity-array-i`](./3875-construct-uniform-parity-array-i/) |
