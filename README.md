@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-121-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-122-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-2.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **52** | 43.0% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **63** | 52.1% | `██████████░░░░░░░░░░` |
-| 🔴 **Hard** | **6** | 5.0% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **121** | 100% | `████████████████████` |
+| 🟢 **Easy** | **52** | 42.6% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **64** | 52.5% | `███████████░░░░░░░░░` |
+| 🔴 **Hard** | **6** | 4.9% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **122** | 100% | `████████████████████` |
 
 </div>
 
@@ -35,9 +35,9 @@
 | 📊 **10-Day Daily Average** | **2.00 questions / day** | `20 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **9 / 10 days** (90%) | `██████████████████░░` |
 | 🎯 **Avg Difficulty Score** | **2.00 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
-| 🔴 **Hard (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
+| 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **8** (80.0%) | `████████████████░░░░` |
+| 🔴 **Hard (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
 
 </div>
 
@@ -138,6 +138,7 @@
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | C++ | Arrays & Hashing | [`1111-maximum-nesting-depth-of-two-valid-parentheses-strings`](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | C++ | Arrays & Hashing | [`1190-reverse-substrings-between-each-pair-of-parentheses`](./1190-reverse-substrings-between-each-pair-of-parentheses/) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | C++ | Arrays & Hashing | [`1401-circle-and-rectangle-overlapping`](./1401-circle-and-rectangle-overlapping/) |
+| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | C++ | Arrays & Hashing | [`1423-maximum-points-you-can-obtain-from-cards`](./1423-maximum-points-you-can-obtain-from-cards/) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | C++ | Arrays & Hashing | [`1541-minimum-insertions-to-balance-a-parentheses-string`](./1541-minimum-insertions-to-balance-a-parentheses-string/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`1614-maximum-nesting-depth-of-the-parentheses`](./1614-maximum-nesting-depth-of-the-parentheses/) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | C++ | Arrays & Hashing | [`1752-check-if-array-is-sorted-and-rotated`](./1752-check-if-array-is-sorted-and-rotated/) |
