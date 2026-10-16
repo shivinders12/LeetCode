@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-122-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-2.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-123-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-2.10%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **52** | 42.6% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **64** | 52.5% | `███████████░░░░░░░░░` |
+| 🟢 **Easy** | **52** | 42.3% | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium** | **65** | 52.8% | `███████████░░░░░░░░░` |
 | 🔴 **Hard** | **6** | 4.9% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **122** | 100% | `████████████████████` |
+| 🏆 **Total** | **123** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,7 +32,7 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **2.00 questions / day** | `20 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **2.10 questions / day** | `21 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **9 / 10 days** (90%) | `██████████████████░░` |
 | 🎯 **Avg Difficulty Score** | **2.00 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
@@ -50,6 +50,7 @@
 | 0000 | [Q3. Design Bus Seat Booking System](https://leetcode.com/problems/design-bus-seat-booking-system/) | 🟡 Medium | C++ | Arrays & Hashing | [`0000-design-bus-seat-booking-system`](./0000-design-bus-seat-booking-system/) |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | C++ | Hash Table | [`0001-two-sum`](./0001-two-sum/) |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | C++ | Arrays & Hashing | [`0002-add-two-numbers`](./0002-add-two-numbers/) |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | C++ | Arrays & Hashing | [`0003-longest-substring-without-repeating-characters`](./0003-longest-substring-without-repeating-characters/) |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | C++ | Arrays & Hashing | [`0005-longest-palindromic-substring`](./0005-longest-palindromic-substring/) |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | C++ | Arrays & Hashing | [`0007-reverse-integer`](./0007-reverse-integer/) |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | C++ | Arrays & Hashing | [`0008-string-to-integer-atoi`](./0008-string-to-integer-atoi/) |
