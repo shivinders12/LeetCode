@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-123-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-2.10%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-124-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.70%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **52** | 42.3% | `████████░░░░░░░░░░░░` |
-| 🟡 **Medium** | **65** | 52.8% | `███████████░░░░░░░░░` |
-| 🔴 **Hard** | **6** | 4.9% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **123** | 100% | `████████████████████` |
+| 🟢 **Easy** | **52** | 41.9% | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium** | **66** | 53.2% | `███████████░░░░░░░░░` |
+| 🔴 **Hard** | **6** | 4.8% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **124** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,8 +32,8 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **2.10 questions / day** | `21 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **9 / 10 days** (90%) | `██████████████████░░` |
+| 📊 **10-Day Daily Average** | **1.70 questions / day** | `17 questions solved in last 10 days` |
+| 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
 | 🎯 **Avg Difficulty Score** | **2.00 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
 | 🟡 **Medium (Recent)** | **8** (80.0%) | `████████████████░░░░` |
@@ -131,6 +131,7 @@
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | 🟢 Easy | C++ | Arrays & Hashing | [`0860-lemonade-change`](./0860-lemonade-change/) |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | C++ | Arrays & Hashing | [`0876-middle-of-the-linked-list`](./0876-middle-of-the-linked-list/) |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | 🟡 Medium | C++ | Dynamic Programming | [`0901-online-stock-span`](./0901-online-stock-span/) |
+| 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 Medium | C++ | Arrays & Hashing | [`0904-fruit-into-baskets`](./0904-fruit-into-baskets/) |
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | C++ | Dynamic Programming | [`0907-sum-of-subarray-minimums`](./0907-sum-of-subarray-minimums/) |
 | 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium | C++ | Arrays & Hashing | [`0921-minimum-add-to-make-parentheses-valid`](./0921-minimum-add-to-make-parentheses-valid/) |
 | 0940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴 Hard | C++ | Arrays & Hashing | [`0940-distinct-subsequences-ii`](./0940-distinct-subsequences-ii/) |
