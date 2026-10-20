@@ -90,6 +90,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 1021,"Remove Outermost Parentheses",Easy,C++,https://leetcode.com/problems/remove-outermost-parentheses/,2026-10-08 16:22:06
 1111,"Maximum Nesting Depth of Two Valid Parentheses Strings",Medium,C++,https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/,2026-09-30 10:51:14
 1190,"Reverse Substrings Between Each Pair of Parentheses",Medium,C++,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/,2026-09-27 09:51:03
+1358,"Number of Substrings Containing All Three Characters",Medium,C++,https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/,2026-10-20 21:08:06
 1401,"Circle and Rectangle Overlapping",Medium,C++,https://leetcode.com/problems/circle-and-rectangle-overlapping/,2026-09-19 10:23:41
 1423,"Maximum Points You Can Obtain from Cards",Medium,C++,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/,2026-10-16 10:47:11
 1541,"Minimum Insertions to Balance a Parentheses String",Medium,C++,https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/,2026-10-09 15:45:54
