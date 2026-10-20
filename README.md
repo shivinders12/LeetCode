@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-124-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.70%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-125-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.50%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **52** | 41.9% | `████████░░░░░░░░░░░░` |
-| 🟡 **Medium** | **66** | 53.2% | `███████████░░░░░░░░░` |
+| 🟢 **Easy** | **52** | 41.6% | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium** | **67** | 53.6% | `███████████░░░░░░░░░` |
 | 🔴 **Hard** | **6** | 4.8% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **124** | 100% | `████████████████████` |
+| 🏆 **Total** | **125** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,8 +32,8 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.70 questions / day** | `17 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
+| 📊 **10-Day Daily Average** | **1.50 questions / day** | `15 questions solved in last 10 days` |
+| 🔥 **Active Days (Last 10)** | **7 / 10 days** (70%) | `██████████████░░░░░░` |
 | 🎯 **Avg Difficulty Score** | **2.00 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
 | 🟡 **Medium (Recent)** | **8** (80.0%) | `████████████████░░░░` |
@@ -139,6 +139,7 @@
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`1021-remove-outermost-parentheses`](./1021-remove-outermost-parentheses/) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | C++ | Arrays & Hashing | [`1111-maximum-nesting-depth-of-two-valid-parentheses-strings`](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | C++ | Arrays & Hashing | [`1190-reverse-substrings-between-each-pair-of-parentheses`](./1190-reverse-substrings-between-each-pair-of-parentheses/) |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 🟡 Medium | C++ | Arrays & Hashing | [`1358-number-of-substrings-containing-all-three-characters`](./1358-number-of-substrings-containing-all-three-characters/) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | C++ | Arrays & Hashing | [`1401-circle-and-rectangle-overlapping`](./1401-circle-and-rectangle-overlapping/) |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | C++ | Arrays & Hashing | [`1423-maximum-points-you-can-obtain-from-cards`](./1423-maximum-points-you-can-obtain-from-cards/) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | C++ | Arrays & Hashing | [`1541-minimum-insertions-to-balance-a-parentheses-string`](./1541-minimum-insertions-to-balance-a-parentheses-string/) |
