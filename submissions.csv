@@ -108,6 +108,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 2265,"Count Nodes Equal to Average of Subtree",Medium,C++,https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/,2026-09-10 20:30:57
 2333,"Minimum Sum of Squared Difference",Medium,C++,https://leetcode.com/problems/minimum-sum-of-squared-difference/,2026-10-11 07:25:19
 2406,"Divide Intervals Into Minimum Number of Groups",Medium,C++,https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/,2026-10-11 11:43:01
+2409,"Count Days Spent Together",Easy,C++,https://leetcode.com/problems/count-days-spent-together/,2026-10-25 00:20:50
 2913,"Subarrays Distinct Element Sum of Squares I",Easy,C++,https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/,2026-10-15 10:08:06
 3069,"Distribute Elements Into Two Arrays I",Easy,C++,https://leetcode.com/problems/distribute-elements-into-two-arrays-i/,2026-08-20 10:12:48
 3471,"Find the Largest Almost Missing Integer",Easy,C++,https://leetcode.com/problems/find-the-largest-almost-missing-integer/,2026-08-18 12:12:57
