@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-125-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.50%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-126-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-0.60%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **52** | 41.6% | `████████░░░░░░░░░░░░` |
-| 🟡 **Medium** | **67** | 53.6% | `███████████░░░░░░░░░` |
+| 🟢 **Easy** | **53** | 42.1% | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium** | **67** | 53.2% | `███████████░░░░░░░░░` |
 | 🔴 **Hard** | **6** | 4.8% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **125** | 100% | `████████████████████` |
+| 🏆 **Total** | **126** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.50 questions / day** | `15 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **7 / 10 days** (70%) | `██████████████░░░░░░` |
-| 🎯 **Avg Difficulty Score** | **2.00 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **8** (80.0%) | `████████████████░░░░` |
+| 📊 **10-Day Daily Average** | **0.60 questions / day** | `6 questions solved in last 10 days` |
+| 🔥 **Active Days (Last 10)** | **4 / 10 days** (40%) | `████████░░░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.80 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -157,6 +157,7 @@
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡 Medium | C++ | Arrays & Hashing | [`2265-count-nodes-equal-to-average-of-subtree`](./2265-count-nodes-equal-to-average-of-subtree/) |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | 🟡 Medium | C++ | Arrays & Hashing | [`2333-minimum-sum-of-squared-difference`](./2333-minimum-sum-of-squared-difference/) |
 | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | 🟡 Medium | C++ | Arrays & Hashing | [`2406-divide-intervals-into-minimum-number-of-groups`](./2406-divide-intervals-into-minimum-number-of-groups/) |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | C++ | Arrays & Hashing | [`2409-count-days-spent-together`](./2409-count-days-spent-together/) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | 🟢 Easy | C++ | Dynamic Programming | [`2913-subarrays-distinct-element-sum-of-squares-i`](./2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3069-distribute-elements-into-two-arrays-i`](./3069-distribute-elements-into-two-arrays-i/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`3471-find-the-largest-almost-missing-integer`](./3471-find-the-largest-almost-missing-integer/) |
