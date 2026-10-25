@@ -1,5 +1,3 @@
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
@@ -16,8 +14,6 @@ public:
 
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
- *     TreeNode *left;
- *     TreeNode *right;
         inorder(root,ans);
         return ans;
     }
