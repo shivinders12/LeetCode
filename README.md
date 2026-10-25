@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-129-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-0.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-131-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.10%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **56** | 43.4% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **67** | 51.9% | `██████████░░░░░░░░░░` |
-| 🔴 **Hard** | **6** | 4.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **129** | 100% | `████████████████████` |
+| 🟢 **Easy** | **57** | 43.5% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **68** | 51.9% | `██████████░░░░░░░░░░` |
+| 🔴 **Hard** | **6** | 4.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **131** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,12 +32,12 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **0.90 questions / day** | `9 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **1.10 questions / day** | `11 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **4 / 10 days** (40%) | `████████░░░░░░░░░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.40 / 3.00** | 🟢 Easy Focus |
+| 🟢 **Easy (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
 | 🟡 **Medium (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
-| 🔴 **Hard (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
+| 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
 
@@ -85,6 +85,8 @@
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | C++ | Sorting / Two Pointers | [`0088-merge-sorted-array`](./0088-merge-sorted-array/) |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`0090-subsets-ii`](./0090-subsets-ii/) |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | C++ | Arrays & Hashing | [`0094-binary-tree-inorder-traversal`](./0094-binary-tree-inorder-traversal/) |
+| 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | C++ | Arrays & Hashing | [`0102-binary-tree-level-order-traversal`](./0102-binary-tree-level-order-traversal/) |
+| 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | C++ | Arrays & Hashing | [`0104-maximum-depth-of-binary-tree`](./0104-maximum-depth-of-binary-tree/) |
 | 0115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | 🔴 Hard | C++ | Arrays & Hashing | [`0115-distinct-subsequences`](./0115-distinct-subsequences/) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | C++ | Dynamic Programming | [`0121-best-time-to-buy-and-sell-stock`](./0121-best-time-to-buy-and-sell-stock/) |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | C++ | Arrays & Hashing | [`0128-longest-consecutive-sequence`](./0128-longest-consecutive-sequence/) |
