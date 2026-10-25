@@ -43,6 +43,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 136,"Single Number",Easy,C++,https://leetcode.com/problems/single-number/,2026-08-16 03:31:27
 141,"Linked List Cycle",Easy,C++,https://leetcode.com/problems/linked-list-cycle/,2026-08-24 14:55:25
 142,"Linked List Cycle II",Medium,C++,https://leetcode.com/problems/linked-list-cycle-ii/,2026-08-25 12:24:24
+144,"Binary Tree Preorder Traversal",Easy,C++,https://leetcode.com/problems/binary-tree-preorder-traversal/,2026-10-25 18:00:41
 148,"Sort List",Medium,C++,https://leetcode.com/problems/sort-list/,2026-08-26 10:14:40
 151,"Reverse Words in a String",Medium,C++,https://leetcode.com/problems/reverse-words-in-a-string/,2026-08-19 11:02:08
 155,"Min Stack",Medium,C++,https://leetcode.com/problems/min-stack/,2026-09-01 10:59:52
