@@ -1,10 +1,3 @@
-        // vector<int> ans;
-        // inorder(root,ans);
-
-        //itervative
-        vector<int> ans;
-        stack<TreeNode*> st;
-        TreeNode* curr = root;
 
         while (curr != NULL || !st.empty()) {
             while (curr != NULL) {
@@ -19,6 +12,12 @@
 
             curr = curr->right;
         }
+        TreeNode* curr = root;
+        stack<TreeNode*> st;
+        vector<int> ans;
+        //itervative
+
 
         return ans;
-        return ans;
+    }
+};
