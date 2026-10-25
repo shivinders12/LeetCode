@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-128-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-0.80%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-129-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-0.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **55** | 43.0% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **67** | 52.3% | `██████████░░░░░░░░░░` |
+| 🟢 **Easy** | **56** | 43.4% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **67** | 51.9% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **6** | 4.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **128** | 100% | `████████████████████` |
+| 🏆 **Total** | **129** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,7 +32,7 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **0.80 questions / day** | `8 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **0.90 questions / day** | `9 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **4 / 10 days** (40%) | `████████░░░░░░░░░░░░` |
 | 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
@@ -93,6 +93,7 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | C++ | Arrays & Hashing | [`0141-linked-list-cycle`](./0141-linked-list-cycle/) |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`0142-linked-list-cycle-ii`](./0142-linked-list-cycle-ii/) |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | C++ | Arrays & Hashing | [`0144-binary-tree-preorder-traversal`](./0144-binary-tree-preorder-traversal/) |
+| 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 Easy | C++ | Arrays & Hashing | [`0145-binary-tree-postorder-traversal`](./0145-binary-tree-postorder-traversal/) |
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0148-sort-list`](./0148-sort-list/) |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | C++ | Arrays & Hashing | [`0151-reverse-words-in-a-string`](./0151-reverse-words-in-a-string/) |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | C++ | Arrays & Hashing | [`0155-min-stack`](./0155-min-stack/) |
