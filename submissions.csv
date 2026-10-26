@@ -80,6 +80,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 496,"Next Greater Element I",Easy,C++,https://leetcode.com/problems/next-greater-element-i/,2026-09-12 18:20:11
 503,"Next Greater Element II",Medium,C++,https://leetcode.com/problems/next-greater-element-ii/,2026-09-12 18:41:23
 509,"Fibonacci Number",Easy,C++,https://leetcode.com/problems/fibonacci-number/,2026-09-06 11:28:21
+543,"Diameter of Binary Tree",Easy,C++,https://leetcode.com/problems/diameter-of-binary-tree/,2026-10-26 09:32:00
 678,"Valid Parenthesis String",Medium,C++,https://leetcode.com/problems/valid-parenthesis-string/,2026-10-11 17:06:28
 704,"Binary Search",Easy,C++,https://leetcode.com/problems/binary-search/,2026-08-16 12:28:57
 735,"Asteroid Collision",Medium,C++,https://leetcode.com/problems/asteroid-collision/,2026-09-18 11:09:26
