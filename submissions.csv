@@ -39,6 +39,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 100,"Same Tree",Easy,C++,https://leetcode.com/problems/same-tree/,2026-10-25 18:19:41
 102,"Binary Tree Level Order Traversal",Medium,C++,https://leetcode.com/problems/binary-tree-level-order-traversal/,2026-10-25 18:09:16
 104,"Maximum Depth of Binary Tree",Easy,C++,https://leetcode.com/problems/maximum-depth-of-binary-tree/,2026-10-25 18:16:41
+110,"Balanced Binary Tree",Easy,C++,https://leetcode.com/problems/balanced-binary-tree/,2026-10-26 09:25:54
 115,"Distinct Subsequences",Hard,C++,https://leetcode.com/problems/distinct-subsequences/,2026-09-06 10:27:27
 121,"Best Time to Buy and Sell Stock",Easy,C++,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,2026-08-16 03:43:00
 128,"Longest Consecutive Sequence",Medium,C++,https://leetcode.com/problems/longest-consecutive-sequence/,2026-08-23 12:07:15
