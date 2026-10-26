@@ -37,6 +37,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 90,"Subsets II",Medium,C++,https://leetcode.com/problems/subsets-ii/,2026-09-05 10:52:33
 94,"Binary Tree Inorder Traversal",Easy,C++,https://leetcode.com/problems/binary-tree-inorder-traversal/,2026-10-25 17:59:26
 100,"Same Tree",Easy,C++,https://leetcode.com/problems/same-tree/,2026-10-25 18:19:41
+101,"Symmetric Tree",Easy,C++,https://leetcode.com/problems/symmetric-tree/,2026-10-26 10:17:35
 102,"Binary Tree Level Order Traversal",Medium,C++,https://leetcode.com/problems/binary-tree-level-order-traversal/,2026-10-25 18:09:16
 104,"Maximum Depth of Binary Tree",Easy,C++,https://leetcode.com/problems/maximum-depth-of-binary-tree/,2026-10-25 18:16:41
 110,"Balanced Binary Tree",Easy,C++,https://leetcode.com/problems/balanced-binary-tree/,2026-10-26 09:25:54
