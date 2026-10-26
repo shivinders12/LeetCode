@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Total%20Solved-134-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.30%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.40%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -32,10 +32,10 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.30 questions / day** | `13 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **1.40 questions / day** | `14 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **4 / 10 days** (40%) | `████████░░░░░░░░░░░░` |
 | 🎯 **Avg Difficulty Score** | **1.10 / 3.00** | 🟢 Easy Focus |
-| 🟢 **Easy (Recent)** | **8** (80.0%) | `████████████████░░░░` |
+| 🟢 **Easy (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
 | 🟡 **Medium (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
@@ -47,7 +47,7 @@
 
 | # | Problem Title | Difficulty | Language | Category | Solution Folder |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 0000 | [1Accepted2 minutes agoC++0 ms23 MBNotes](https://leetcode.com/problems/balanced-binary-tree/) | ⚪ Unknown | C++ | Arrays & Hashing | [`0000-balanced-binary-tree`](./0000-balanced-binary-tree/) |
+| 0000 | [1Accepted15 minutes agoC++0 ms23.5 MBNotes](https://leetcode.com/problems/diameter-of-binary-tree/) | ⚪ Unknown | C++ | Arrays & Hashing | [`0000-diameter-of-binary-tree`](./0000-diameter-of-binary-tree/) |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | C++ | Hash Table | [`0001-two-sum`](./0001-two-sum/) |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | C++ | Arrays & Hashing | [`0002-add-two-numbers`](./0002-add-two-numbers/) |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | C++ | Arrays & Hashing | [`0003-longest-substring-without-repeating-characters`](./0003-longest-substring-without-repeating-characters/) |
