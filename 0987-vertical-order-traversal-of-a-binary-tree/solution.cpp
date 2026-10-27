@@ -1,18 +1,23 @@
-        findRange(root, 0, minY, maxY);
-
-        int offset = -minY;
-        vector<vector<pair<int,int>>> cols(maxY - minY + 1);
-
-        solve(root, 0, 0, cols, offset);
-
-        vector<vector<int>> ans;
-        for (auto& col : cols) {
-            sort(col.begin(), col.end());   
-            vector<int> vals;
-            for (auto& p : col) vals.push_back(p.second);
-            ans.push_back(vals);
-        }
-
-        return ans;
+    vector<vector<int>> verticalTraversal(TreeNode* root) {
+        if (root == nullptr) return {};
     }
-};
+
+        findRange(root->left,  y - 1, minY, maxY);
+        findRange(root->right, y + 1, minY, maxY);
+
+        minY = min(minY, y);
+        maxY = max(maxY, y);
+        if (root == nullptr) return;
+
+    void findRange(TreeNode* root, int y, int& minY, int& maxY) {
+
+    }
+        solve(root->right, x + 1, y + 1, ans, offset);
+        solve(root->left,  x + 1, y - 1, ans, offset);
+
+
+        ans[y + offset].push_back({x, root->val});
+        if (root == nullptr) return;
+class Solution {
+public:
+    void solve(TreeNode* root, int x, int y, vector<vector<pair<int,int>>>& ans, int offset) {
