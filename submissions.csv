@@ -59,6 +59,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 162,"Find Peak Element",Medium,C++,https://leetcode.com/problems/find-peak-element/,2026-08-16 04:13:46
 169,"Majority Element",Easy,C++,https://leetcode.com/problems/majority-element/,2026-08-16 03:40:30
 189,"Rotate Array",Medium,C++,https://leetcode.com/problems/rotate-array/,2026-08-16 03:39:00
+199,"Binary Tree Right Side View",Medium,C++,https://leetcode.com/problems/binary-tree-right-side-view/,2026-10-27 11:08:25
 205,"Isomorphic Strings",Easy,C++,https://leetcode.com/problems/isomorphic-strings/,2026-08-17 21:49:17
 206,"Reverse Linked List",Easy,C++,https://leetcode.com/problems/reverse-linked-list/,2026-08-24 14:38:28
 216,"Combination Sum III",Medium,C++,https://leetcode.com/problems/combination-sum-iii/,2026-09-05 11:15:25
