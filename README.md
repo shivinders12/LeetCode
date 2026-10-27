@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-138-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.80%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-139-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **61** | 44.2% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **69** | 50.0% | `██████████░░░░░░░░░░` |
-| 🔴 **Hard** | **7** | 5.1% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **138** | 100% | `████████████████████` |
+| 🟢 **Easy** | **61** | 43.9% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **69** | 49.6% | `██████████░░░░░░░░░░` |
+| 🔴 **Hard** | **8** | 5.8% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **139** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,12 +32,12 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.80 questions / day** | `18 questions solved in last 10 days` |
+| 📊 **10-Day Daily Average** | **1.90 questions / day** | `19 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **5 / 10 days** (50%) | `██████████░░░░░░░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.50 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
-| 🔴 **Hard (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.80 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
+| 🔴 **Hard (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
 
 </div>
 
@@ -148,6 +148,7 @@
 | 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium | C++ | Arrays & Hashing | [`0921-minimum-add-to-make-parentheses-valid`](./0921-minimum-add-to-make-parentheses-valid/) |
 | 0940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴 Hard | C++ | Arrays & Hashing | [`0940-distinct-subsequences-ii`](./0940-distinct-subsequences-ii/) |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | C++ | Two Pointers | [`0977-squares-of-a-sorted-array`](./0977-squares-of-a-sorted-array/) |
+| 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | 🔴 Hard | C++ | Arrays & Hashing | [`0987-vertical-order-traversal-of-a-binary-tree`](./0987-vertical-order-traversal-of-a-binary-tree/) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | C++ | Arrays & Hashing | [`1021-remove-outermost-parentheses`](./1021-remove-outermost-parentheses/) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | C++ | Arrays & Hashing | [`1111-maximum-nesting-depth-of-two-valid-parentheses-strings`](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | C++ | Arrays & Hashing | [`1190-reverse-substrings-between-each-pair-of-parentheses`](./1190-reverse-substrings-between-each-pair-of-parentheses/) |
