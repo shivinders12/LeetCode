@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-139-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-140-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-1.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **61** | 43.9% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **69** | 49.6% | `██████████░░░░░░░░░░` |
-| 🔴 **Hard** | **8** | 5.8% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **139** | 100% | `████████████████████` |
+| 🟢 **Easy** | **61** | 43.6% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **70** | 50.0% | `██████████░░░░░░░░░░` |
+| 🔴 **Hard** | **8** | 5.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **140** | 100% | `████████████████████` |
 
 </div>
 
@@ -35,9 +35,9 @@
 | 📊 **10-Day Daily Average** | **1.90 questions / day** | `19 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **5 / 10 days** (50%) | `██████████░░░░░░░░░░` |
 | 🎯 **Avg Difficulty Score** | **1.80 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
-| 🔴 **Hard (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
+| 🟢 **Easy (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🔴 **Hard (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
 
 </div>
 
@@ -116,6 +116,7 @@
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | 🟢 Easy | C++ | Arrays & Hashing | [`0231-power-of-two`](./0231-power-of-two/) |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟢 Easy | C++ | Arrays & Hashing | [`0232-implement-queue-using-stacks`](./0232-implement-queue-using-stacks/) |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | C++ | Arrays & Hashing | [`0234-palindrome-linked-list`](./0234-palindrome-linked-list/) |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | C++ | Arrays & Hashing | [`0236-lowest-common-ancestor-of-a-binary-tree`](./0236-lowest-common-ancestor-of-a-binary-tree/) |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0237-delete-node-in-a-linked-list`](./0237-delete-node-in-a-linked-list/) |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | C++ | Prefix Sum | [`0238-product-of-array-except-self`](./0238-product-of-array-except-self/) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | C++ | Arrays & Hashing | [`0242-valid-anagram`](./0242-valid-anagram/) |
