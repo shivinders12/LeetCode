@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-140-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-1.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-141-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-2.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **61** | 43.6% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **70** | 50.0% | `██████████░░░░░░░░░░` |
+| 🟢 **Easy** | **61** | 43.3% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **71** | 50.4% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **8** | 5.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **140** | 100% | `████████████████████` |
+| 🏆 **Total** | **141** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **1.90 questions / day** | `19 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **5 / 10 days** (50%) | `██████████░░░░░░░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.80 / 3.00** | 🟡 Medium Challenge |
+| 📊 **10-Day Daily Average** | **2.00 questions / day** | `20 questions solved in last 10 days` |
+| 🔥 **Active Days (Last 10)** | **6 / 10 days** (60%) | `████████████░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.90 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -112,6 +112,7 @@
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | C++ | Arrays & Hashing | [`0205-isomorphic-strings`](./0205-isomorphic-strings/) |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | C++ | Arrays & Hashing | [`0206-reverse-linked-list`](./0206-reverse-linked-list/) |
 | 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 🟡 Medium | C++ | Arrays & Hashing | [`0216-combination-sum-iii`](./0216-combination-sum-iii/) |
+| 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | 🟡 Medium | C++ | Arrays & Hashing | [`0222-count-complete-tree-nodes`](./0222-count-complete-tree-nodes/) |
 | 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy | C++ | Arrays & Hashing | [`0225-implement-stack-using-queues`](./0225-implement-stack-using-queues/) |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | 🟢 Easy | C++ | Arrays & Hashing | [`0231-power-of-two`](./0231-power-of-two/) |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟢 Easy | C++ | Arrays & Hashing | [`0232-implement-queue-using-stacks`](./0232-implement-queue-using-stacks/) |
