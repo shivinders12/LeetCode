@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-141-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-142-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-2.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **61** | 43.3% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **71** | 50.4% | `██████████░░░░░░░░░░` |
-| 🔴 **Hard** | **8** | 5.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **141** | 100% | `████████████████████` |
+| 🟢 **Easy** | **61** | 43.0% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **72** | 50.7% | `██████████░░░░░░░░░░` |
+| 🔴 **Hard** | **8** | 5.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **142** | 100% | `████████████████████` |
 
 </div>
 
@@ -34,9 +34,9 @@
 | :--- | :---: | :--- |
 | 📊 **10-Day Daily Average** | **2.00 questions / day** | `20 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **6 / 10 days** (60%) | `████████████░░░░░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.90 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **2.00 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -143,6 +143,7 @@
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | 🟢 Easy | C++ | Arrays & Hashing | [`0836-rectangle-overlap`](./0836-rectangle-overlap/) |
 | 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | C++ | Arrays & Hashing | [`0856-score-of-parentheses`](./0856-score-of-parentheses/) |
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | 🟢 Easy | C++ | Arrays & Hashing | [`0860-lemonade-change`](./0860-lemonade-change/) |
+| 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | 🟡 Medium | C++ | Arrays & Hashing | [`0863-all-nodes-distance-k-in-binary-tree`](./0863-all-nodes-distance-k-in-binary-tree/) |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | C++ | Arrays & Hashing | [`0876-middle-of-the-linked-list`](./0876-middle-of-the-linked-list/) |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | 🟡 Medium | C++ | Dynamic Programming | [`0901-online-stock-span`](./0901-online-stock-span/) |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 Medium | C++ | Arrays & Hashing | [`0904-fruit-into-baskets`](./0904-fruit-into-baskets/) |
