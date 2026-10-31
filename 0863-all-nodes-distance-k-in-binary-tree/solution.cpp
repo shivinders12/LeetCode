@@ -1,23 +1,22 @@
-                return;
-                    ans.push_back(q.front());
-                    q.pop();
-                }
-            if (dis == k) {
-                while (!q.empty()) {
+class Solution {
+public:
 
-            
-        while (!q.empty()) {
+    void createGraph(TreeNode* root, TreeNode* parent,unordered_map<int, vector<int>>& adj) {
 
-            int n = q.size();
+        if (root == nullptr)
+            return;
 
-        int dis = 0;
-        visited.insert(root->val);
-        queue<int> q;
-        unordered_set<int> visited;
+        if (parent != nullptr) {
+            adj[root->val].push_back(parent->val);
+            adj[parent->val].push_back(root->val);
+        }
 
-        q.push(root->val);
-
-    void bfs(TreeNode* root, int k,unordered_map<int, vector<int>>& adj,vector<int>& ans) {
+        createGraph(root->left, root, adj);
+        createGraph(root->right, root, adj);
+    }
 
    
-    }
+    void bfs(TreeNode* root, int k,unordered_map<int, vector<int>>& adj,vector<int>& ans) {
+
+        queue<int> q;
+        unordered_set<int> visited;
