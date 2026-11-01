@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-142-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-2.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-143-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-2.10%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **61** | 43.0% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **72** | 50.7% | `██████████░░░░░░░░░░` |
+| 🟢 **Easy** | **61** | 42.7% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **73** | 51.0% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **8** | 5.6% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **142** | 100% | `████████████████████` |
+| 🏆 **Total** | **143** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **2.00 questions / day** | `20 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **6 / 10 days** (60%) | `████████████░░░░░░░░` |
-| 🎯 **Avg Difficulty Score** | **2.00 / 3.00** | 🟡 Medium Challenge |
+| 📊 **10-Day Daily Average** | **2.10 questions / day** | `21 questions solved in last 10 days` |
+| 🔥 **Active Days (Last 10)** | **7 / 10 days** (70%) | `██████████████░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **2.10 / 3.00** | 🟡 Medium Challenge |
 | 🟢 **Easy (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **7** (70.0%) | `██████████████░░░░░░` |
 | 🔴 **Hard (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -130,6 +130,7 @@
 | 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | C++ | Arrays & Hashing | [`0435-non-overlapping-intervals`](./0435-non-overlapping-intervals/) |
 | 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | C++ | Arrays & Hashing | [`0451-sort-characters-by-frequency`](./0451-sort-characters-by-frequency/) |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 🟡 Medium | C++ | Arrays & Hashing | [`0452-minimum-number-of-arrows-to-burst-balloons`](./0452-minimum-number-of-arrows-to-burst-balloons/) |
+| 0453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | 🟡 Medium | C++ | Arrays & Hashing | [`0453-minimum-moves-to-equal-array-elements`](./0453-minimum-moves-to-equal-array-elements/) |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | 🟢 Easy | C++ | Arrays & Hashing | [`0455-assign-cookies`](./0455-assign-cookies/) |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | C++ | Arrays & Hashing | [`0485-max-consecutive-ones`](./0485-max-consecutive-ones/) |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`0496-next-greater-element-i`](./0496-next-greater-element-i/) |
