@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-145-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-2.30%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-146-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-1.00%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **62** | 42.8% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **74** | 51.0% | `██████████░░░░░░░░░░` |
+| 🟢 **Easy** | **63** | 43.2% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **74** | 50.7% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **8** | 5.5% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **145** | 100% | `████████████████████` |
+| 🏆 **Total** | **146** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **2.30 questions / day** | `23 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **9 / 10 days** (90%) | `██████████████████░░` |
-| 🎯 **Avg Difficulty Score** | **1.90 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **2** (20.0%) | `████░░░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **7** (70.0%) | `██████████████░░░░░░` |
+| 📊 **10-Day Daily Average** | **1.00 questions / day** | `10 questions solved in last 10 days` |
+| 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.80 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -158,6 +158,7 @@
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 Medium | C++ | Arrays & Hashing | [`1111-maximum-nesting-depth-of-two-valid-parentheses-strings`](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 🟡 Medium | C++ | Arrays & Hashing | [`1190-reverse-substrings-between-each-pair-of-parentheses`](./1190-reverse-substrings-between-each-pair-of-parentheses/) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 🟡 Medium | C++ | Arrays & Hashing | [`1358-number-of-substrings-containing-all-three-characters`](./1358-number-of-substrings-containing-all-three-characters/) |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | 🟢 Easy | C++ | Arrays & Hashing | [`1385-find-the-distance-value-between-two-arrays`](./1385-find-the-distance-value-between-two-arrays/) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | C++ | Arrays & Hashing | [`1401-circle-and-rectangle-overlapping`](./1401-circle-and-rectangle-overlapping/) |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | C++ | Arrays & Hashing | [`1423-maximum-points-you-can-obtain-from-cards`](./1423-maximum-points-you-can-obtain-from-cards/) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | 🟡 Medium | C++ | Arrays & Hashing | [`1541-minimum-insertions-to-balance-a-parentheses-string`](./1541-minimum-insertions-to-balance-a-parentheses-string/) |
