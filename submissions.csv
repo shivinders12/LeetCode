@@ -29,6 +29,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 57,"Insert Interval",Medium,C++,https://leetcode.com/problems/insert-interval/,2026-10-09 18:02:17
 58,"Length of Last Word",Easy,C++,https://leetcode.com/problems/length-of-last-word/,2026-09-22 09:33:16
 61,"Rotate List",Medium,C++,https://leetcode.com/problems/rotate-list/,2026-08-31 14:42:30
+66,"Plus One",Easy,C++,https://leetcode.com/problems/plus-one/,2026-11-06 21:17:23
 75,"Sort Colors",Medium,C++,https://leetcode.com/problems/sort-colors/,2026-08-16 03:41:08
 78,"Subsets",Medium,C++,https://leetcode.com/problems/subsets/,2026-09-06 11:01:52
 79,"Word Search",Medium,C++,https://leetcode.com/problems/word-search/,2026-09-06 10:52:29
