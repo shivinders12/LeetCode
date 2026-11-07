@@ -1,22 +1,23 @@
         }
 
-        // Construct left subtree
-        root->left = build(preorder, inorder,
-                           preIndex, inStart, pos - 1);
+            pos++;
+        while (inorder[pos] != rootVal) {
 
-      
-        root->right = build(preorder, inorder,
-                            preIndex, pos + 1, inEnd);
 
-        return root;
-    }
+        // Find root in inorder
+        int pos = inStart;
 
-    TreeNode* buildTree(vector<int>& preorder,
-                        vector<int>& inorder) {
+        TreeNode* root = new TreeNode(rootVal);
+        int rootVal = preorder[preIndex++];
+            return NULL;
+        if (inStart > inEnd)
 
-        int preIndex = 0;
 
-        return build(preorder, inorder, preIndex,
-                     0, inorder.size() - 1);
-    }
-};
+                    int inEnd) {
+                    int inStart,
+                    vector<int>& inorder,
+                    int& preIndex,
+    TreeNode* build(vector<int>& preorder,
+
+class Solution {
+public:
