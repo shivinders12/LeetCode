@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-147-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-148-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-0.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **64** | 43.5% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **74** | 50.3% | `██████████░░░░░░░░░░` |
+| 🟢 **Easy** | **64** | 43.2% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **75** | 50.7% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **8** | 5.4% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **147** | 100% | `████████████████████` |
+| 🏆 **Total** | **148** | 100% | `████████████████████` |
 
 </div>
 
@@ -35,9 +35,9 @@
 | 📊 **10-Day Daily Average** | **0.90 questions / day** | `9 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
 | 🎯 **Avg Difficulty Score** | **1.70 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
-| 🔴 **Hard (Recent)** | **1** (10.0%) | `██░░░░░░░░░░░░░░░░░░` |
+| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **7** (70.0%) | `██████████████░░░░░░` |
+| 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
 
@@ -91,6 +91,7 @@
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | C++ | Arrays & Hashing | [`0102-binary-tree-level-order-traversal`](./0102-binary-tree-level-order-traversal/) |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | C++ | Arrays & Hashing | [`0103-binary-tree-zigzag-level-order-traversal`](./0103-binary-tree-zigzag-level-order-traversal/) |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | C++ | Arrays & Hashing | [`0104-maximum-depth-of-binary-tree`](./0104-maximum-depth-of-binary-tree/) |
+| 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 Medium | C++ | Arrays & Hashing | [`0105-construct-binary-tree-from-preorder-and-inorder-traversal`](./0105-construct-binary-tree-from-preorder-and-inorder-traversal/) |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 Easy | C++ | Arrays & Hashing | [`0110-balanced-binary-tree`](./0110-balanced-binary-tree/) |
 | 0114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | C++ | Arrays & Hashing | [`0114-flatten-binary-tree-to-linked-list`](./0114-flatten-binary-tree-to-linked-list/) |
 | 0115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | 🔴 Hard | C++ | Arrays & Hashing | [`0115-distinct-subsequences`](./0115-distinct-subsequences/) |
