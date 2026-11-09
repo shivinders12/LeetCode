@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-148-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-149-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-0.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **64** | 43.2% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **75** | 50.7% | `██████████░░░░░░░░░░` |
+| 🟢 **Easy** | **65** | 43.6% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **75** | 50.3% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **8** | 5.4% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **148** | 100% | `████████████████████` |
+| 🏆 **Total** | **149** | 100% | `████████████████████` |
 
 </div>
 
@@ -34,9 +34,9 @@
 | :--- | :---: | :--- |
 | 📊 **10-Day Daily Average** | **0.90 questions / day** | `9 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.70 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **3** (30.0%) | `██████░░░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **7** (70.0%) | `██████████████░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.50 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -195,6 +195,7 @@
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`3876-construct-uniform-parity-array-ii`](./3876-construct-uniform-parity-array-ii/) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3903-smallest-stable-index-i`](./3903-smallest-stable-index-i/) |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | 🟡 Medium | C++ | Arrays & Hashing | [`3904-smallest-stable-index-ii`](./3904-smallest-stable-index-ii/) |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | 🟢 Easy | C++ | Arrays & Hashing | [`3963-create-grid-with-exactly-one-path`](./3963-create-grid-with-exactly-one-path/) |
 
 ---
 
