@@ -137,6 +137,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 3498,"Reverse Degree of a String",Easy,C++,https://leetcode.com/problems/reverse-degree-of-a-string/,2026-09-20 09:09:38
 3550,"Smallest Index With Digit Sum Equal to Index",Easy,C++,https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/,2026-09-24 14:24:04
 3622,"Check Divisibility by Digit Sum and Product",Easy,C++,https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/,2026-08-22 10:47:22
+3693,"Climbing Stairs II",Medium,C++,https://leetcode.com/problems/climbing-stairs-ii/,2026-11-10 23:21:06
 3718,"Smallest Missing Multiple of K",Easy,C++,https://leetcode.com/problems/smallest-missing-multiple-of-k/,2026-08-25 11:35:22
 3727,"Maximum Alternating Sum of Squares",Medium,C++,https://leetcode.com/problems/maximum-alternating-sum-of-squares/,2026-10-13 09:03:50
 3736,"Minimum Moves to Equal Array Elements III",Easy,C++,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/,2026-11-03 22:44:34
