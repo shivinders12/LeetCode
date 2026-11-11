@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-149-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/10--Day%20Avg-0.90%2Fday-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Total%20Solved-150-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10--Day%20Avg-0.80%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **65** | 43.6% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **75** | 50.3% | `██████████░░░░░░░░░░` |
-| 🔴 **Hard** | **8** | 5.4% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **149** | 100% | `████████████████████` |
+| 🟢 **Easy** | **65** | 43.3% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **76** | 50.7% | `██████████░░░░░░░░░░` |
+| 🔴 **Hard** | **8** | 5.3% | `█░░░░░░░░░░░░░░░░░░░` |
+| 🏆 **Total** | **150** | 100% | `████████████████████` |
 
 </div>
 
@@ -32,11 +32,11 @@
 
 | Metric | Value | Details & Breakdown |
 | :--- | :---: | :--- |
-| 📊 **10-Day Daily Average** | **0.90 questions / day** | `9 questions solved in last 10 days` |
-| 🔥 **Active Days (Last 10)** | **8 / 10 days** (80%) | `████████████████░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.50 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **5** (50.0%) | `██████████░░░░░░░░░░` |
+| 📊 **10-Day Daily Average** | **0.80 questions / day** | `8 questions solved in last 10 days` |
+| 🔥 **Active Days (Last 10)** | **7 / 10 days** (70%) | `██████████████░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
+| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -186,6 +186,7 @@
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 Easy | C++ | Arrays & Hashing | [`3498-reverse-degree-of-a-string`](./3498-reverse-degree-of-a-string/) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢 Easy | C++ | Arrays & Hashing | [`3550-smallest-index-with-digit-sum-equal-to-index`](./3550-smallest-index-with-digit-sum-equal-to-index/) |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | C++ | Arrays & Hashing | [`3622-check-divisibility-by-digit-sum-and-product`](./3622-check-divisibility-by-digit-sum-and-product/) |
+| 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | 🟡 Medium | C++ | Dynamic Programming | [`3693-climbing-stairs-ii`](./3693-climbing-stairs-ii/) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | C++ | Arrays & Hashing | [`3718-smallest-missing-multiple-of-k`](./3718-smallest-missing-multiple-of-k/) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | C++ | Arrays & Hashing | [`3727-maximum-alternating-sum-of-squares`](./3727-maximum-alternating-sum-of-squares/) |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | 🟢 Easy | C++ | Arrays & Hashing | [`3736-minimum-moves-to-equal-array-elements-iii`](./3736-minimum-moves-to-equal-array-elements-iii/) |
