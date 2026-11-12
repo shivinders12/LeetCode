@@ -132,6 +132,7 @@ Problem Number,Title,Difficulty,Language,URL,Timestamp
 2409,"Count Days Spent Together",Easy,C++,https://leetcode.com/problems/count-days-spent-together/,2026-10-25 00:20:50
 2913,"Subarrays Distinct Element Sum of Squares I",Easy,C++,https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/,2026-10-15 10:08:06
 3069,"Distribute Elements Into Two Arrays I",Easy,C++,https://leetcode.com/problems/distribute-elements-into-two-arrays-i/,2026-08-20 10:12:48
+3105,"Longest Strictly Increasing or Strictly Decreasing Subarray",Easy,C++,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/,2026-11-12 23:01:54
 3471,"Find the Largest Almost Missing Integer",Easy,C++,https://leetcode.com/problems/find-the-largest-almost-missing-integer/,2026-08-18 12:12:57
 3483,"Unique 3-Digit Even Numbers",Easy,C++,https://leetcode.com/problems/unique-3-digit-even-numbers/,2026-09-11 11:46:12
 3498,"Reverse Degree of a String",Easy,C++,https://leetcode.com/problems/reverse-degree-of-a-string/,2026-09-20 09:09:38
