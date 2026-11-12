@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Solved-150-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Solved-151-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/10--Day%20Avg-0.80%2Fday-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Sync-LeetSync-ff69b4?style=for-the-badge" />
 </p>
@@ -17,10 +17,10 @@
 
 | Difficulty | Count | Ratio | Visual Progress |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **65** | 43.3% | `█████████░░░░░░░░░░░` |
-| 🟡 **Medium** | **76** | 50.7% | `██████████░░░░░░░░░░` |
+| 🟢 **Easy** | **66** | 43.7% | `█████████░░░░░░░░░░░` |
+| 🟡 **Medium** | **76** | 50.3% | `██████████░░░░░░░░░░` |
 | 🔴 **Hard** | **8** | 5.3% | `█░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **150** | 100% | `████████████████████` |
+| 🏆 **Total** | **151** | 100% | `████████████████████` |
 
 </div>
 
@@ -34,9 +34,9 @@
 | :--- | :---: | :--- |
 | 📊 **10-Day Daily Average** | **0.80 questions / day** | `8 questions solved in last 10 days` |
 | 🔥 **Active Days (Last 10)** | **7 / 10 days** (70%) | `██████████████░░░░░░` |
-| 🎯 **Avg Difficulty Score** | **1.60 / 3.00** | 🟡 Medium Challenge |
-| 🟢 **Easy (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
-| 🟡 **Medium (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
+| 🎯 **Avg Difficulty Score** | **1.40 / 3.00** | 🟢 Easy Focus |
+| 🟢 **Easy (Recent)** | **6** (60.0%) | `████████████░░░░░░░░` |
+| 🟡 **Medium (Recent)** | **4** (40.0%) | `████████░░░░░░░░░░░░` |
 | 🔴 **Hard (Recent)** | **0** (0.0%) | `░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
@@ -181,6 +181,7 @@
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | C++ | Arrays & Hashing | [`2409-count-days-spent-together`](./2409-count-days-spent-together/) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | 🟢 Easy | C++ | Dynamic Programming | [`2913-subarrays-distinct-element-sum-of-squares-i`](./2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | C++ | Arrays & Hashing | [`3069-distribute-elements-into-two-arrays-i`](./3069-distribute-elements-into-two-arrays-i/) |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | 🟢 Easy | C++ | Dynamic Programming | [`3105-longest-strictly-increasing-or-strictly-decreasing-subarray`](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | C++ | Arrays & Hashing | [`3471-find-the-largest-almost-missing-integer`](./3471-find-the-largest-almost-missing-integer/) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | 🟢 Easy | C++ | Arrays & Hashing | [`3483-unique-3-digit-even-numbers`](./3483-unique-3-digit-even-numbers/) |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 Easy | C++ | Arrays & Hashing | [`3498-reverse-degree-of-a-string`](./3498-reverse-degree-of-a-string/) |
